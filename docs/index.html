@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>DGOWiki</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+  </head>
+
+  <body>
+    <nav>
+      <a target="_blank" href="//">官网</a>
+      <a target="_blank" href="//"></a>
+    </nav>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        routerMode: "hash",
+        name: "DGO Wiki",
+        loadSidebar: true,
+        auto2top: true,
+        maxLevel: 4,
+        subMaxLevel: 2,
+        nameLink: "/", //跳转的链接地址
+        routerMode: "history", //设置路由模式
+        topMargin: 40, //距顶部空间
+        homepage: "/index.md",
+        search: {
+          placeholder: "搜索",
+          noData: "找不到结果!",
+          depth: 3,
+        },
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md", //防止意外回退
+        },
+        pagination: {
+          previousText: "上一章",
+          nextText: "下一章",
+        },
+        ga: "UA-106147152-1",
+      };
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  </body>
+</html>
