@@ -1,9 +1,11 @@
 # 百科首页
 
-> An awesome project.
 
-**SoTap Wiki**
-欢迎来到 DGO Wiki(发音 /'wɪkɪ/，维基)！在这里，记载着 DGO 玩家所共同创造出的内容，与一同经历的事情，通过这些你将对 DGO 社区拥有一定的了解，并帮助你更好地融入我们。你可以通过https://maraudern.github.io/DGOWiki 来访问。
+
+**DGO Wiki**
+欢迎来到 DGO Wiki(发音 /'wɪkɪ/，维基)！在这里，记载着 DGO 玩家所共同创造出的内容，与一同经历的事情，通过这些你将对 DGO 社区拥有一定的了解，并帮助你更好地融入我们。
+
+> 你可以通过https://maraudern.github.io/DGOWiki 来访问。
 
 DGO Wiki 并不是针对整个 Minecraft 游戏的知识库，而是为 DGO 玩家所开设的包含服务器内容记载、常见问题帮助的集合。随着 DGO 的运营，这里的内容将得到逐步的充实和完善。这会是一个经年累月的长久过程，欢迎你的加入！
 
