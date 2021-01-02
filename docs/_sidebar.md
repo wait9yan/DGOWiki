@@ -2,7 +2,7 @@
 
   - [首页 | 索引页](index.md)
 
-###### 指南
+      指南
 
   - **加入 DGO 服务器**
     - [新人须知](guide/join/notice.md)
@@ -12,7 +12,7 @@
     - [下载 Minecraft 基岩版](guide/international/download.md)
     - [连接到服务器](guide/international/linkServer.md)
 
-###### 基本
+    基本
 
   - **服务器信息**
     - [玩家守则](basic/information/rules.md)
@@ -21,7 +21,7 @@
   - **游戏教程**
     - [教程列表](basic/tutorial/list.md) 
 
-###### 服务器
+    服务器
 
   - **DGOCraft**
     - [介绍](server/dgoCraft/introduce.md)
@@ -30,7 +30,7 @@
     - [介绍](server/dgoWorld/introduce.md)
     - [聚落列表](server/dgoWorld/list.md)
 
-###### 社区
+    社区
 
   - **玩家** 
     - [介绍](community/player/introduce.md)
