@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-  [**首页** | 索引页](index.md)
+- [首页 | 索引页](index.md)
 
   指南
   - **加入 DGO 服务器**
