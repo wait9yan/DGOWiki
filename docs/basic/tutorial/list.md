@@ -1,4 +1,4 @@
 <!-- docs/basic/tutorial/list.md -->
 
-# 游戏教程目录
+# 教程列表
 

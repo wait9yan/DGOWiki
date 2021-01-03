@@ -1,3 +1,3 @@
 <!-- docs/community/player/introduce.md -->
 
-# 介绍
+# 玩家介绍

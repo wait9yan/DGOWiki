@@ -17,7 +17,7 @@
   - **「服务器信息」**
     - [玩家守则](basic/information/rules.md)
     - [玩家头衔](basic/information/playerTitle.md)
-    - [服务器历史](basic/information/DGOHistory.md) 
+    - [DGO 历史](basic/information/DGOHistory.md) 
   - **「游戏教程」**
     - [教程列表](basic/tutorial/list.md) 
 

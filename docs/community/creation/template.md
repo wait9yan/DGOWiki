@@ -1,3 +1,3 @@
 <!-- docs/community/creation/template.md -->
 
-# 创作
+# 创作模板
