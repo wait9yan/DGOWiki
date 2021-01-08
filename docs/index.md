@@ -6,6 +6,8 @@
 
 DGOWiki 是为 DGO 玩家所开设的百科全书，这里~~将会~~有着服务器的相关信息、引导指南、成果展示等内容。随着我们的不断发展，DGOWiki 中的内容将得到逐步的充实和完善。这会是一个经年累月的长久过程！
 
+?> 🕒 当前版本：Paper 1.16.3 正版
+
 > 目前 Wiki 托管在 github 你可以通过该链接访问我们：<https://maraudern.github.io/dgowiki>
 
 ## Wiki 索引
