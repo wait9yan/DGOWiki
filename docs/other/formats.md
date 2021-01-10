@@ -18,17 +18,21 @@
 
 **粗体** *斜体* ***粗斜体***
 
-<mark>强调标记</mark> <u>下划线</u> ~~删除线~~
+`代码块`
+<mark>强调标记</mark>
 
-<kbd>键盘</kbd> <small>小字符</small>
+~~删除线~~
+<u>下划线</u> 
 
-<!--注释-->
+<kbd>键盘</kbd>
+<small>小字符</small>
+
+> 引用块
 
 ?> 提示块
 
 !> 警告块
 
-> 引用块
 <https://maraudern.github.io/dgowiki/#/> [文本超链接](http://www.example.com/)
 
 ![图片](http://39.100.70.44:8000/images/index_rotation_pic1.jpg)
