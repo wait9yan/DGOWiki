@@ -25,7 +25,7 @@ DGO 的主服务器，为网易基岩版纯生存建筑&技术服 *（在不久�
 
  **可游玩玩家：** 
 拥有`「主服居民」`头衔。
- *(详情见 [玩家头衔](basic/information/playerTitle.md))* 
+ *(详情见 [玩家头衔](basic/information/playerTitle.md) )* 
 
  **服务器号/密码：** 
 可以在`【DGOnline-内服群】`@Q群管家 了解更多。
@@ -37,7 +37,7 @@ DGO 的主服务器，为网易基岩版纯生存建筑&技术服 *（在不久�
 
 1. 「外服转内服」：满足条件的外服成员，可通过此方式进入主服。
 2. 「邀请」：满足条件的内服成员可邀请满足条件的玩家。
- *(详情见 [入服指南](guide/join/guide.md))* 
+ *(详情见 [入服指南](guide/join/guide.md) )* 
 
  **如何进入国际基岩版服务器：**
 一个与服务器同一版本的基岩版客户端，群内会有提供手机端，Win10版需自行获取。
@@ -56,7 +56,7 @@ DGO 的子服务器，为网易基岩版综合生存服，通过指令系统添�
 
  **可游玩玩家：** 
 拥有`「旅客」`或升级后的头衔。
- *(详情见 [玩家头衔](basic/information/playerTitle.md))* 
+ *(详情见 [玩家头衔](basic/information/playerTitle.md) )* 
 
  **服务器号/密码：** 
 可以在`【DGOnline-外服群】`@Q群管家 了解更多。
@@ -68,7 +68,7 @@ DGO 的子服务器，为网易基岩版综合生存服，通过指令系统添�
 
 1. 「审核」：任何人可在开放审核的时间内申请，通过此方法进入子服。
 2. 「邀请」：满足条件的外服成员可邀请满足条件的玩家。
- *(详情见 [入服指南](guide/join/guide.md))* 
+ *(详情见 [入服指南](guide/join/guide.md) )* 
 
 
 
@@ -83,7 +83,7 @@ DGO 的子服务器，为国际基岩版创造服，是内服的平行世界，�
 
  **可游玩玩家：** 
 拥有`「居民」`或升级后的头衔。
- *(详情见 [玩家头衔](basic/information/playerTitle.md))* 
+ *(详情见 [玩家头衔](basic/information/playerTitle.md) )* 
 
  **服务器IP：** 
 `creative.dgo.world`
@@ -104,7 +104,7 @@ DGO 的测试服务器，当 MOJANG 发布重大更新的 Beta版 时，测试�
 
  **可游玩玩家：** 
 拥有`「居民」`或升级后的头衔。
- *(详情见 [玩家头衔](basic/information/playerTitle.md))* 
+ *(详情见 [玩家头衔](basic/information/playerTitle.md) )* 
 
  **服务器IP：** 
 `beta.dgo.world`
