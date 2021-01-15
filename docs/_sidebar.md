@@ -12,23 +12,24 @@
     - [下载 Minecraft 基岩版](guide/international/download.md)
     - [连接到服务器](guide/international/linkServer.md)
 
-- 基本
+- 基础
 
-  - **「服务器信息」**
+  - **「基本信息」**
     - [玩家守则](basic/information/rules.md)
     - [玩家头衔](basic/information/playerTitle.md)
     - [DGO 历史](basic/information/DGOHistory.md) 
+    - [审核评级](basic/information/reviewScore.md) 
   - **「游戏教程」**
     - [教程列表](basic/tutorial/list.md) 
 
-- 服务器
+- 游戏
 
   - **「DGOCraft」**
-    - [介绍](server/dgoCraft/introduce.md)
-    - [聚落列表](server/dgoCraft/list.md)
+    - [介绍](game/dgoCraft/introduce.md)
+    - [聚落列表](game/dgoCraft/list.md)
   - **「DGOWorld」**
-    - [介绍](server/dgoWorld/introduce.md)
-    - [聚落列表](server/dgoWorld/list.md)
+    - [介绍](game/dgoWorld/introduce.md)
+    - [聚落列表](game/dgoWorld/list.md)
 
 - 社区
 

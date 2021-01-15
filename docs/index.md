@@ -9,7 +9,7 @@
 随着我们的持续发展，这里的内容将得到逐步的充实和完善。
 
 ?> 目前 DGOWiki 托管在 Github，你可以通过以下链接来访问：
-`<https://maraudern.github.io/dgowiki>`
+`https://wiki.dgo.world`
 
 ### 什么是 DGO
 
