@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-  - [首页 | 索引页](index.md)
+  - [首页 | 索引](index.md)
 
 - 指南
 
@@ -17,8 +17,8 @@
   - **「基本信息」**
     - [玩家守则](basic/information/rules.md)
     - [玩家头衔](basic/information/playerTitle.md)
-    - [DGO 历史](basic/information/DGOHistory.md) 
     - [审核评级](basic/information/reviewScore.md) 
+    - [DGO 历史](basic/information/DGOHistory.md) 
   - **「游戏教程」**
     - [教程列表](basic/tutorial/list.md) 
 
@@ -39,5 +39,5 @@
   - **「创作」**
     - [模板](community/creation/template.md)
   - **「关于」**
-    - [加入创作](community/about/joinCreation.md)
+    - [成为创作者](community/about/joinCreation.md)
     - [加入管理组](community/about/joinManagement.md)
