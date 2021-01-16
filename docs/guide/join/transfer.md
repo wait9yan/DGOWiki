@@ -1,4 +1,4 @@
-<!-- docs/basic/information/外服转内服.md-->
+<!-- docs/guide/join/transfer.md-->
 
 # 外服转内服
 
