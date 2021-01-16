@@ -2,10 +2,6 @@
 
 # 首页 | 索引
 
-
-
-## 前言
-
 欢迎来到 DGOWiki！这是为「DGO玩家」所开设的百科全书。
 这里汇总着「创作者」所编写的服务器信息、指南、教程等内容，记载着这个世界所经历的点滴。
 随着 DGO 的持续发展，这里的内容将得到逐步的充实和完善，我们期待你的加入！
@@ -15,7 +11,7 @@
 
 
 
-## 服务器简介
+### 服务器简介
 
 DGO | 缘梦长廊，全称为 Dream Gallery Online ，一个 MinecraftBE纯净生存服务器/社区。
 我们会紧跟 **Minecraft基岩版** 的最新版本进行更新。
@@ -30,7 +26,7 @@ DGO | 缘梦长廊，全称为 Dream Gallery Online ，一个 MinecraftBE纯净�
 
 
 
-## Wiki 索引
+### Wiki 索引
 
 - 📢 [新人须知](guide/join/notice.md)
 - 😎 [入服指南](guide/join/guide.md)
@@ -43,13 +39,13 @@ DGO | 缘梦长廊，全称为 Dream Gallery Online ，一个 MinecraftBE纯净�
 
 
 
-## 创作
+### 创作
 
 服务器的发展离不开各位玩家的帮助，如果您有任何合理的意见或建议，欢迎向服主、管理提出。如果您有意对服务器的发展和完善做出贡献，例如帮助编写一些服务器内的教程等，欢迎加入开发组，成为「创作者」，向本项目提交 Pull Request。详情见 [成为创作者](basic/information/DGOHistory.md) 。
 
 
 
-## 关于
+### 关于
 
 DGOWiki 上的所有内容均按照 [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源，这意味着任何非 Wiki 创作者都不能对本 Wiki 进行任何形式的二次创作，不得将本作品用于商业目的。若发现有人违反，请 [联系]() 我们举报。
 

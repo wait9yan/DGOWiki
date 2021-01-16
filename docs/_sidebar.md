@@ -6,7 +6,7 @@
 
   - **「加入 DGO 服务器」**
     - [新人须知](guide/join/notice.md)
-    - [入服指南](guide/join/guide.md)
+    - [入服指南](guide/join.md)
     - [开始游玩](guide/join/started.md)
   - **「搭建 Minecraft 国际版游戏环境」**
     - [下载 Minecraft 基岩版](guide/international/download.md)
@@ -17,7 +17,7 @@
   - **「基本信息」**
     - [玩家守则](basic/information/rules.md)
     - [玩家头衔](basic/information/playerTitle.md)
-    - [审核评级](basic/information/reviewScore.md) 
+    - [BUG 定义](basic/information/bugDefinition.md)
     - [DGO 历史](basic/information/DGOHistory.md) 
   - **「游戏教程」**
     - [教程列表](basic/tutorial/list.md) 
@@ -39,5 +39,6 @@
   - **「创作」**
     - [模板](community/creation/template.md)
   - **「关于」**
+    - [捐助我们](community/about/donate.md)
     - [成为创作者](community/about/joinCreation.md)
     - [加入管理组](community/about/joinManagement.md)
