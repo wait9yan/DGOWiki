@@ -1,6 +1,6 @@
 <!-- docs/community/about/joinCreation.md -->
 
-# 成为创作者
+# 加入创作组
 
 任何 DGO 正式成员均可以向本项目提交 Pull Request。为了确保 Wiki 的内容质量，在编写之前请确保：
 

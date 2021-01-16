@@ -40,5 +40,5 @@
     - [模板](community/creation/template.md)
   - **「关于」**
     - [捐助我们](community/about/donate.md)
-    - [成为创作者](community/about/joinCreation.md)
+    - [加入创作组](community/about/joinCreation.md)
     - [加入管理组](community/about/joinManagement.md)
