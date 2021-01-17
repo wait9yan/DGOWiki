@@ -1,6 +1,6 @@
 <!-- docs/basic/information/bugDefinition.md-->
 
-# DGO对BUG 的定义以及态度
+# BUG定义
 
 首先我们来谈谈，在获取物品方面，什么样的行为算利用了bug呢？
 ——只要获取物品的来源不满足MC设定里的物质守恒。

@@ -40,7 +40,7 @@
 
 1. **加入【DGOnline-交流群】。**
 这是DGO的外部交流群，你可以在这里交流任何话题！
- *( Q群号：939719784，点此 [加入](https://jq.qq.com/?_wv=1027&k=fLYVZmGj) )*
+ *( Q群号：`939719784`，点此加入 [DGOnline-交流群](https://jq.qq.com/?_wv=1027&k=fLYVZmGj) )*
 
 2. **查阅Wiki中「基本信息」。**
 这些内容已经尽可能简洁而必要，至少需大致浏览，以免进服后茫然无措。
@@ -62,7 +62,7 @@
 
 1. **成为内服成员！**
 若是有在 Minecraft 大展身手的想法，可以加入内服与我们一起实现我们对幻想世界的憧憬！
- *( 点此跳转 [成为主服居民](guide/join/becomingMainResident.md) )*
+ *( 详情见 [成为主服居民](guide/join/becomingMainResident.md) )*
 
 #### 「邀请」 特殊流程：
 
