@@ -26,8 +26,8 @@
   - [聚落列表](DGOWorld/list.md)
 
 - 「玩家社区」
-  - [介绍](community/player/introduce.md)
-  - [玩家列表](community/player/list.md)
+  - [介绍](player/introduce.md)
+  - [玩家列表](player/list.md)
 
 - 「创作」
   - [模板](creation/template.md)
