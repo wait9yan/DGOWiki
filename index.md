@@ -14,7 +14,7 @@ DGOWiki 记载着这个世界所经历的点滴，随着 DGO 的不断发展，�
 
 ### Wiki 索引
 
-- [新人须知](notice/about.md) 📢 快速了解 DGO 服务器
+- [新人须知](notice/server.md) 📢 快速了解 DGO 服务器
 - [玩家守则](notice/rules.md) 📜 对玩家行为的判定标准
 - [入服指南](guide/apply.md) 😎 想要入服的新人看这里
 - [常见问题](_404.md) 🙋 兴许你需要一点帮助
