@@ -1,4 +1,4 @@
-<!-- other/contact.md -->
+<!-- other/contact -->
 
 # 联系我们
 

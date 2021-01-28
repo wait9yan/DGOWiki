@@ -1,4 +1,4 @@
-<!-- docs/community/about/donate.md -->
+<!-- other/donate -->
 
 # 捐助我们
 

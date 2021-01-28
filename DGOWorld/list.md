@@ -1,3 +1,3 @@
-<!-- DGOWorld/list.md -->
+<!-- DGOWorld/list -->
 
 # 聚落列表

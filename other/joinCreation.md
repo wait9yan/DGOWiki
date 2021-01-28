@@ -1,4 +1,4 @@
-<!-- docs/community/about/joinCreation.md -->
+<!-- other/joinCreation -->
 
 # 加入创作组
 

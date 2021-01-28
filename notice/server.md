@@ -1,4 +1,4 @@
-<!-- notice/server.md -->
+<!-- notice/server -->
 
 # 服务器信息
 
@@ -12,14 +12,14 @@
 
 ## 服务器列表
 
-!> [DGO](notice/about.md) 是群组服务器，这样可以为不同的玩家群体提供对应的游玩环境。<br/>
-除了 [玩家守则](notice/rules.md) 中的规章，每个服务器可能会有特定的规则或者限制，请在对应服务器游玩时注意。
+!> [DGO](notice/about) 是群组服务器，这样可以为不同的玩家群体提供对应的游玩环境。<br/>
+除了 [玩家守则](notice/rules) 中的规章，每个服务器可能会有特定的规则或者限制，请在对应服务器游玩时注意。
 
 
 
 ### ~~DGOCraft（内服）~~ （规划中...）
 
-[DGO](notice/about.md) 的主服务器，为「MinecraftBE国际纯生存建筑&技术服」，拥有最高的优先级。
+[DGO](notice/about) 的主服务器，为「MinecraftBE国际纯生存建筑&技术服」，拥有最高的优先级。
 旨在
 
 > 通过持续长久的发展与建设，在最纯粹的生存中建设村落、小镇、城邦乃至国度。
@@ -30,7 +30,7 @@
 <summary>点此以查看内服详细信息</summary>
 
  **可游玩玩家** <br/>
-拥有`「主服居民」`头衔。 *(详情见 [玩家头衔](information/playerTitle.md) )* 
+拥有`「主服居民」`头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
 
  **服务器IP** <br/>
 `ceaft.dgo.world`
@@ -39,7 +39,7 @@
 死亡掉落 / 生物破坏 / 火焰蔓延 / TNT爆炸 / 开启坐标
  
  **加入「内服」的方式** <br/>
-「外服转内服」：满足条件的正式成员，可通过此方式进入内服。 *(详情见 [成为主服居民](guide/apply/MainResident.md) )* <br/>
+「外服转内服」：满足条件的正式成员，可通过此方式进入内服。 *(详情见 [成为主服居民](guide/apply/MainResident) )* <br/>
 「邀请」：满足条件的内服成员可邀请满足条件的玩家。 *(详情见 [邀请流程](guide/apply?id=邀请流程) )* 
 
 </details>
@@ -48,7 +48,7 @@
 
 ### DGOWorld（外服）
 
-[DGO](notice/about.md) 的子服务器，为「网易基岩版生存服」，有「综合服」「纯净服」两个分服。
+[DGO](notice/about) 的子服务器，为「网易基岩版生存服」，有「综合服」「纯净服」两个分服。
 旨在
 
 > 生存的基础上倾向于玩家探索、互动。为更多的人提供和谐的生存环境。
@@ -59,7 +59,7 @@
 <summary>点此以查看外服详细信息</summary>
 
  **可游玩玩家** <br/>
-拥有`「旅客」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle.md) )* 
+拥有`「旅客」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
 
  **服务器号/密码** <br/>
 可以在`【DGOWorld】`@Q群管家 了解更多。
@@ -78,7 +78,7 @@
 
 ### ~~DGOCreative（创造服）~~（规划中...）
 
-[DGO](notice/about.md) 的子服务器，为「MinecraftBE国际创造服」，是内服的平行世界，定时复刻并备份。
+[DGO](notice/about) 的子服务器，为「MinecraftBE国际创造服」，是内服的平行世界，定时复刻并备份。
 旨在
 
 > 为内服提供更为完善的区域规划，为「DGO玩家」提供测试机器/建筑之地。
@@ -89,7 +89,7 @@
 <summary>点此以查看创造服详细信息</summary>
 
  **可游玩玩家** <br/>
-拥有`「居民」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle.md) )* 
+拥有`「居民」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
 
  **服务器IP** <br/>
 `creative.dgo.world`
@@ -103,7 +103,7 @@
 
 ### ~~DGOBeta（测试服）~~ (规划中...)
 
-[DGO](notice/about.md) 的子服务器，为「MinecraftBE国际测试服」，当 MOJANG 发布重大更新的 Beta版 时，测试服会开启并紧跟测试版。
+[DGO](notice/about) 的子服务器，为「MinecraftBE国际测试服」，当 MOJANG 发布重大更新的 Beta版 时，测试服会开启并紧跟测试版。
 旨在
 
 > 为「DGO玩家」提供一个提前尝试新版本之地,体验重大版本更新的新内容。
@@ -114,7 +114,7 @@
 <summary>点此以查看测试服详细信息</summary>
 
  **可游玩玩家** <br/>
-拥有`「居民」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle.md) )* 
+拥有`「居民」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
 
  **服务器IP** <br/>
 `beta.dgo.world`
@@ -131,5 +131,5 @@
 感谢您阅读到这里！相信您已经迫不及待的想加入游戏中了~ 
 
 为了使您的旅途尽可能的平坦与顺利，
-我们为您准备了一份 [入服指南](guide/apply.md) ，这是入服的必要过程。
+我们为您准备了一份 [入服指南](guide/apply) ，这是入服的必要过程。
 祝旅途愉快，也希望这里会是你一直在寻找的家园。

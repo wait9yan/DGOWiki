@@ -1,4 +1,4 @@
-<!-- guide/join.md -->
+<!-- guide/join -->
 
 # 入服指引
 

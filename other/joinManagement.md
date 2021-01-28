@@ -1,4 +1,4 @@
-<!-- docs/community/about/joinManagement.md -->
+<!-- other/joinManagement -->
 
 # 加入管理组
 

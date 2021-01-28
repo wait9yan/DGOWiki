@@ -1,4 +1,4 @@
-<!-- information/bugDefinition.md-->
+<!-- information/bugDefinition -->
 
 # BUG定义
 

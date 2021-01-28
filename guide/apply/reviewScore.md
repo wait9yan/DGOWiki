@@ -1,4 +1,4 @@
-<!-- guide/apply/reviewScore.md-->
+<!-- guide/apply/reviewScore-->
 
 # 审核评级
 

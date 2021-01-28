@@ -1,4 +1,4 @@
-<!-- guide/apply/MainResident.md-->
+<!-- guide/apply/MainResident-->
 
 # 成为主服居民
 

@@ -1,4 +1,4 @@
-<!-- information/DGOHistory.md -->
+<!-- information/DGOHistory -->
 
 # DGO 历史
 

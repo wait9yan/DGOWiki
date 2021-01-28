@@ -1,3 +1,3 @@
-<!-- DGOCraft/introduce.md -->
+<!-- DGOCraft/introduce -->
 
 # DGOCraft 介绍

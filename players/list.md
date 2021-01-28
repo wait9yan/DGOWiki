@@ -1,4 +1,4 @@
-<!-- docs/community/player/list.md -->
+<!-- player/list -->
 
 # 玩家列表
 
@@ -32,9 +32,9 @@
 
 ### 自我 Pull Request
 
-Fork 本项目，并在 `/players` 文件夹下创建一个与您游戏名称相同的 Markdown 文件（区分大小写）。例如我是 `Subilan`，那么我就应该创建 `Subilan.md`。
+Fork 本项目，并在 `/players` 文件夹下创建一个与您游戏名称相同的 Markdown 文件（区分大小写）。例如我是 `Subilan`，那么我就应该创建 `Subilan`。
 
-!> 区分大小写很重要。当您是 `Abcd` 时，就必须创建为 `Abcd.md` 而不是 `abcd.md`。
+!> 区分大小写很重要。当您是 `Abcd` 时，就必须创建为 `Abcd` 而不是 `abcd`。
 
 在这之后就与创作流程相同了，向本项目发起 Pull Request 即可。
 

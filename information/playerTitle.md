@@ -1,4 +1,4 @@
-<!-- information/rules.md -->
+<!-- information/rules -->
 
 # 玩家头衔
 
@@ -25,7 +25,7 @@
 
 ##### 「主服居民」
 
-?> 「居民」通过 [成为主服居民](guide/apply/MainResident.md) 流程后获得的头衔，为服务器内服成员。<br/>
+?> 「居民」通过 [成为主服居民](guide/apply/MainResident) 流程后获得的头衔，为服务器内服成员。<br/>
  **增加权限：** <br/>
     - 「DGOCraft」白名单<br/>
     - 自定义头衔，如「肝帝」「建筑」「技术」「鸽子」「接待」...

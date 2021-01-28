@@ -1,4 +1,4 @@
-<!-- guide/play.md -->
+<!-- guide/play -->
 
 # 游玩手册
 

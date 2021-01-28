@@ -1,3 +1,3 @@
-<!-- DGOCraft/list.md -->
+<!-- DGOCraft/list -->
 
 # 聚落列表

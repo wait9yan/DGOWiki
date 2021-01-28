@@ -1,3 +1,3 @@
-<!-- DGOWorld/introduce.md -->
+<!-- DGOWorld/introduce -->
 
 # DGOWorld 介绍
