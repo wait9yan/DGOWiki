@@ -3,7 +3,7 @@
 # 关于 DGO
 
 DGO | 缘梦长廊，全称为 Dream Gallery Online ，一个兴趣驱动的「MinecraftBE纯净生存服务器/社区」。<br/>
-我们会紧跟「Minecraft基岩版」的最新版本进行更新。
+我们会随「Minecraft基岩版」的最新版本进行更新。
 
 
 
