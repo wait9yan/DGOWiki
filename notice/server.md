@@ -26,7 +26,7 @@
 ?> 我们希望这里的一切可以满足所有「内服居民」心中对幻想世界的憧憬，在此与伙伴们一起生活在这里，申报规划，建立城市。
 
 <details>
-<summary><mark>点此以查看内服详细信息</mark></summary>
+<mark><summary>点此以查看内服详细信息</summary></mark>
 
  **可游玩玩家** <br/>
 拥有`「内服居民」`头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
@@ -89,7 +89,7 @@
 <summary>点此以查看创造服详细信息</summary>
 
  **可游玩玩家** <br/>
-拥有`「居民」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
+拥有`「内服居民」`或升级后的头衔。 *(详情见 [玩家头衔](information/playerTitle) )* 
 
  **服务器IP** <br/>
 `creative.dgo.world`
