@@ -6,6 +6,7 @@
   - [关于 DGO](notice/about)
   - [服务器信息](notice/server)
   - [玩家守则](notice/rules)
+  - [常见问题](notice/question)
 
 - 「入服指南」
   - [白名单申请流程](guide/apply)

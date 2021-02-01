@@ -45,8 +45,8 @@ win10 版需：一个与服务器同一版本的 win10 客户端，需在微软�
 
 1.备份你的资源包、存档等文件，如「minecraftpe」「minecraftWorlds」「resource_packs」等文件夹。
 
-?> **游戏目录** *（需修改<mark>你的账户</mark>）* <br/>
-`C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang`
+?> **游戏目录** *（需修改`你的账户`）* <br/>
+<mark>C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang</mark>
 
 2.卸载当前的 Minecraft，下载并安装下载群内与服务器同一版本的 win10 客户端。
 
