@@ -2,7 +2,7 @@
 
 # 关于 DGO
 
-DGO | 缘梦长廊，全称为 Dream Gallery Online ，一个兴趣驱动的「MinecraftBE纯净生存服务器/社区」。<br/>
+ **DGO | 缘梦长廊** ，全称为 Dream Gallery Online ，一个兴趣驱动的「MinecraftBE纯净生存服务器/社区」。<br/>
 我们会随「Minecraft基岩版」的最新版本进行更新。
 
 
@@ -11,8 +11,8 @@ DGO | 缘梦长廊，全称为 Dream Gallery Online ，一个兴趣驱动的「M
 
 DGO 建立于 `2018.10.2`。 *(详情见 [DGO 历史](information/DGOHistory) )* <br/>
 我们最初的定位仅仅是一个「亲友小服」，然而随着服务器的不断发展，我们改变了这一想法。<br/>
-现在，我们期望能为 MinecraftBE 玩家营造一个和谐、温馨的游戏环境。<br/>
-逐渐建立一个完善的服务体系、优秀的[管理团队](other/contact?id=管理团队)、面向不同群体的群组服务器以供大家游玩。
+现在，我们期望能为广大 MinecraftBE 玩家营造一个和谐、温馨的游戏环境。<br/>
+逐渐建立一个优秀的 [管理团队](other/contact?id=管理团队)、完善而面对不同群体的群组服务器体系以供大家游玩。
 
 
 
