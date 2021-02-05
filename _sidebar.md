@@ -9,7 +9,7 @@
   - [常见问题](notice/question)
 
 - 「入服指南」
-  - [白名单申请流程](guide/apply)
+  - [白名单申请流程](guide/apply.md)
   - [入服指引](guide/join)
   - [游玩手册](guide/play)
 
