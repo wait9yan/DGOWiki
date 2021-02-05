@@ -27,8 +27,8 @@
   - [聚落列表](DGOWorld/list)
 
 - 「玩家社区」
-  - [介绍](player/introduce)
-  - [玩家列表](player/list)
+  - [介绍](players/introduce)
+  - [玩家列表](players/list)
 
 - 「创作」
   - [模板](creation/template)
