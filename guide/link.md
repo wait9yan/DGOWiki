@@ -51,9 +51,9 @@
 
 1. **备份你当前的资源包、存档等文件，如`minecraftpe`、`minecraftWorlds`、`resource_packs`等文件夹。** <br/>
  游戏根目录 *（需修改`你的账户`）*：
-<mark>C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang</mark>
+C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
 
-2. **卸载当前的 Minecraft，下载并安装下载玩家群组内与服务器同一版本的 win10 客户端。** <br/>
+1. **卸载当前的 Minecraft，下载并安装下载玩家群组内与服务器同一版本的 win10 客户端。** <br/>
 如果安装出现错误，提示缺少系统文件，可以复制错误提示去网上搜解决方案。
 
 ---
