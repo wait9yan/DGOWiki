@@ -9,8 +9,8 @@
   - [常见问题](notice/question)
 
 - 「入服指南」
-  - [白名单申请流程](guide/apply.md)
-  - [入服指引](guide/join)
+  - [入服前引导](guide/join.md)
+  - [连接服务器](guide/link)
   - [游玩手册](guide/play)
 
 - 「基本信息」
