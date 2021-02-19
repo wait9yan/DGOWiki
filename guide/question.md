@@ -1,4 +1,4 @@
-<!-- notice/question -->
+<!-- guide/question -->
 
 # 常见问题
 

@@ -6,12 +6,12 @@
   - [关于 DGO](notice/about)
   - [服务器信息](notice/server)
   - [玩家守则](notice/rules)
-  - [常见问题](notice/question)
 
 - 「入服指南」
   - [入服前引导](guide/join.md)
   - [连接服务器](guide/link)
   - [游玩手册](guide/play)
+  - [常见问题](guide/question)
 
 - 「基本信息」
   - [玩家头衔](information/playerTitle)
@@ -19,11 +19,11 @@
   - [DGO 历史](information/DGOHistory) 
 
 - 「DGOCraft」
-  - [介绍](DGOCraft/introduce)
+  - [介绍](DGOCraft/3th)
   - [聚落列表](DGOCraft/list)
 
 - 「DGOWorld」
-  - [介绍](DGOWorld/introduce)
+  - [介绍](DGOWorld/2th)
   - [聚落列表](DGOWorld/list)
 
 - 「玩家社区」
