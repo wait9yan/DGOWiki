@@ -1,8 +1,8 @@
-<!-- DGOWorld/introduce -->
+<!-- DGOWorld/2nd -->
 
 # DGOWorld
 
-DGOWorld 2th 是 DGO 的网易服务器，曾经「天朝」「蓬莱」综合服务器的延续。
+DGOWorld 2nd 是 DGO 的网易服务器，曾经「天朝」「蓬莱」综合服务器的延续。
 
 <details>
 <summary>点此以查看外服详细信息</summary>

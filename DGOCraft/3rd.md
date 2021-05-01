@@ -1,8 +1,8 @@
-<!-- DGOCraft/introduce -->
+<!-- DGOCraft/3rd -->
 
 # DGOCraft
 
-DGOCraft 3th 是 DGO 的 1.16 版本的国际测试服，曾经网易内服成员的新服务器。<br/>
+DGOCraft 3rd 是 DGO 的 1.16 版本的国际测试服，曾经网易内服成员的新服务器。<br/>
 
 <details>
 <summary>点此以查看内服详细信息</summary>

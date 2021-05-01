@@ -19,11 +19,11 @@
   - [DGO 历史](information/DGOHistory) 
 
 - 「DGOCraft」
-  - [介绍](DGOCraft/3th)
+  - [介绍](DGOCraft/3rd)
   - [聚落列表](DGOCraft/list)
 
 - 「DGOWorld」
-  - [介绍](DGOWorld/2th)
+  - [介绍](DGOWorld/2nd)
   - [聚落列表](DGOWorld/list)
 
 - 「玩家社区」
