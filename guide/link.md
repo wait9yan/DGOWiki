@@ -1,7 +1,7 @@
 <!-- guide/link -->
 
 # 连接服务器
-
+您
 如果还没完成申请入服的步骤，请先阅读 [入服前指引](guide/apply) 并完成后再来阅读连接服务器。
 
 ---
@@ -50,7 +50,7 @@
 !> **提醒** <br/>
 如果微软商店上下载的 win10 客户端与服务器版本不同，需完成以下步骤降版本。
 
-1. **备份你当前的资源包、存档等文件，如`minecraftpe`、`minecraftWorlds`、`resource_packs`等文件夹。** <br/>
+1. **备份您当前的资源包、存档等文件，如`minecraftpe`、`minecraftWorlds`、`resource_packs`等文件夹。** <br/>
  游戏根目录 *（需修改`你的账户`）*：
 C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
 
@@ -61,9 +61,9 @@ C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbw
 
 ## 进入服务器
 
-如果你已经准备好了，现在，是时候加入服务器了！<br/>
+如果您已经准备好了，现在，是时候加入服务器了！<br/>
 
-你需确保，使用的客户端版本正确。<br/>
+您需确保，使用的客户端版本正确。<br/>
 添加服务器时，使用 [服务器信息](notice/server) 中的服务器IP/端口。<br/>
 添加完成出现服务器信息后即可查看服务器延迟。 *（中国大陆玩家一般 2 ~ 60 ms，海外玩家一般 40 ~ 280 ms）* <br/>
 如果仍然不确定或者延迟、丢包导致游戏体验不佳，请联系 [管理组]() 协助解决网络问题。 
