@@ -2,16 +2,13 @@
 
   - [首页 | 索引](index)
 
-- 「新人须知」
-  - [关于 DGO](notice/about)
-  - [服务器信息](notice/server)
-  - [玩家守则](notice/rules)
-
-- 「入服指南」
-  - [入服前引导](guide/join.md)
+- 「新人须知 & 入服指南」
+  - [关于我们](guide/about)
+  - [入服前引导](guide/join)
   - [连接服务器](guide/link)
-  - [游玩手册](guide/play)
   - [常见问题](guide/question)
+  - [游玩手册](guide/play)
+  - [玩家守则](guide/rules)
 
 - 「基本信息」
   - [玩家头衔](information/playerTitle)
