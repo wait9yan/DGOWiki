@@ -121,7 +121,7 @@ DGO 是群组服务器，这样可以为不同的玩家群体提供对应的游�
 
  **DGO | 缘梦长廊 ，全称为 Dream Gallery Online。** <br/>
  服务器建立于`2018年10月2日`。 *(详情见 [DGO 历史](information/DGOHistory) )* <br/>
- 是一个由兴趣驱动的「MinecraftBE纯净生存服务器/社区」。<br/>
+ 是一个由兴趣驱动的 Minecraft「高素质的纯净生存服务器/社区」。<br/>
 我们会随着「Minecraft基岩版」的最新版本进行更新。
 
 ---
