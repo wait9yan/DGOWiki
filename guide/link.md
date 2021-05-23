@@ -61,8 +61,9 @@ C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbw
 <br/>
     2. **卸载当前的 Minecraft，下载并安装`玩家群组`内与服务器同一版本的 win10 客户端。** <br/>
 如果安装出现错误，提示缺少系统文件，可以复制错误提示去网上搜解决方案。<br/>
-如果安装不了appx文件，去设置里面开启允许外部应用安装
-
+如果安装不了appx文件，去设置里面开启允许外部应用安装<br/>
+<br/>
+    3. **在微软商店的设置中，关闭「自动更新应用」，防止 Minecraft 自动更新到最新版。** <br/>
 ---
 
 ## 进入服务器
