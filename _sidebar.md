@@ -1,8 +1,9 @@
 <!-- _sidebar -->
 
-  - [首页 | 索引](index)
+- [首页 | 索引](index)
 
 - 「新人须知 & 入服指南」
+
   - [关于我们](guide/about)
   - [入服前引导](guide/join)
   - [连接服务器](guide/link)
@@ -11,23 +12,28 @@
   - [玩家守则](guide/rules)
 
 - 「基本信息」
+
   - [玩家头衔](information/playerTitle)
   - [BUG 定义](information/bugDefinition)
-  - [DGO 历史](information/DGOHistory) 
+  - [DGO 历史](information/DGOHistory)
 
 - 「DGOCraft」
+
   - [介绍](DGOCraft/3rd)
   - [聚落列表](DGOCraft/list)
 
 - 「DGOWorld」
+
   - [介绍](DGOWorld/2nd)
   - [聚落列表](DGOWorld/list)
 
 - 「玩家社区」
+
   - [介绍](players/introduce)
   - [玩家列表](players/list)
 
 - 「创作」
+
   - [模板](creation/template)
 
 - 「其他」
