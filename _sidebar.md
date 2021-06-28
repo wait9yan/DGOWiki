@@ -24,7 +24,7 @@
 
 - 「DGOWorld」
 
-  - [介绍](DGOWorld/2nd)
+  - [介绍](DGOWorld/3rd)
   - [聚落列表](DGOWorld/list)
 
 - 「玩家社区」
