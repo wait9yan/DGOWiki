@@ -1,4 +1,4 @@
-<!-- information/bugDefinition -->
+<!-- notice/bugDefinition -->
 
 # BUG 定义
 

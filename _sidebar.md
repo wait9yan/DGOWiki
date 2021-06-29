@@ -2,19 +2,22 @@
 
 - [首页 | 索引](index)
 
-- 「新人须知 & 入服指南」
+- 「新人须知」
 
-  - [关于我们](guide/about)
-  - [入服前引导](guide/join)
+  - [关于我们](notice/about)
+  - [入服前引导](notice/join)
+  - [玩家守则](notice/rules)
+  - [BUG 定义](notice/bugDefinition)
+
+- 「入服指南」
+
   - [连接服务器](guide/link)
   - [常见问题](guide/question)
   - [游玩手册](guide/play)
-  - [玩家守则](guide/rules)
 
 - 「基本信息」
 
   - [玩家头衔](information/playerTitle)
-  - [BUG 定义](information/bugDefinition)
   - [DGO 历史](information/DGOHistory)
 
 - 「DGOCraft」

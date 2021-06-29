@@ -3,14 +3,14 @@
 # 连接服务器
 
 您
-如果还没完成申请入服的步骤，请先阅读 [入服前指引](guide/join) 并完成后再来阅读连接服务器。
+如果还没完成申请入服的步骤，请先阅读 [入服前指引](notice/join) 并完成后再来阅读连接服务器。
 
 ---
 
 ## 准备客户端
 
 加入服务器前，您需要有条件启动「Minecraft 基岩版」。<br/>
-在此我们会分别介绍 [网易(中国)端](guide/link?id=网易端)、[Android 端](guide/link?id=android端)、[IOS 端](guide/link?id=ios端) 和 [win10 端](guide/link?id=win10端) 如何获取客户端。
+在此我们会分别介绍`网易(中国)端`、`Android 端`、`IOS 端`和`win10 端`如何获取客户端。
 
 ---
 
