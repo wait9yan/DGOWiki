@@ -5,7 +5,7 @@
 - 「新人须知」
 
   - [关于我们](notice/about)
-  - [入服前引导](notice/join)
+  - [入服指南](notice/join)
   - [玩家守则](notice/rules)
   - [BUG 定义](notice/bugDefinition)
 
