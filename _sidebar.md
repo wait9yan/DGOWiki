@@ -9,7 +9,7 @@
   - [玩家守则](notice/rules)
   - [BUG 定义](notice/bugDefinition)
 
-- 「入服指南」
+- 「新人指引」
 
   - [连接服务器](guide/link)
   - [常见问题](guide/question)

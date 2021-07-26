@@ -49,7 +49,7 @@ Win10 必须在微软商店购买游戏后才能游玩*（71 人民币）*，包
 1.  **以防万一，可以备份您当前的资源包、存档等文件。**<br/>
     如`minecraftpe`、`minecraftWorlds`、`resource_packs`等文件夹。
 
-**游戏根目录** _（需修改`你的账户`成你自己的账户）_
+**游戏根目录** _（修改`你的账户`为自己的账户名）_
 
 ```
 C:\Users\你的账户\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
