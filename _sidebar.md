@@ -17,13 +17,13 @@
 
 - 「基本信息」
 
-  - [玩家头衔](information/playerTitle)
+  - [管理职能](information/administratorsFunction)
   - [DGO 历史](information/DGOHistory)
 
 - 「DGOCraft」
 
   - [介绍](DGOCraft/3rd)
-  - [聚落列表](DGOCraft/list)
+  - [作品汇总](DGOCraft/list)
 
 - 「DGOWorld」
 
