@@ -1,4 +1,4 @@
-<!-- DGOWorld/2nd -->
+<!-- information/DGOWorld/2nd -->
 
 # DGOWorld
 

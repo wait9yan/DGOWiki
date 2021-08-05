@@ -1,4 +1,4 @@
-<!-- DGOWorld/2nd -->
+<!-- information/DGOWorld/3rd -->
 
 # DGOWorld
 
@@ -24,18 +24,17 @@ DGOWorld 3rd 是 DGO 的国际外服，开放于`2021年7月6日`。
 
 ---
 
-## 插件目录
+## 插件列表
 
 |                                  插件目录                                  |
 | :------------------------------------------------------------------------: |
-|          [更合理的合成表添加](DGOCraft/3rd?id=更合理的合成表添加)          |
-| [OnlineTimer（在线时间统计）](DGOCraft/3rd?id=onlinetimer（在线时间统计）) |
-|            [Here（坐标回复）](DGOCraft/3rd?id=here（坐标回复）)            |
-|                         AntiBeacon（修复信标 UI）                          |
-|                          BehaviorLog（行为记录）                           |
+|          [更合理的合成表添加](DGOWorld/3rd?id=更合理的合成表添加)          |
+| [OnlineTimer（在线时间统计）](DGOWorld/3rd?id=onlinetimer（在线时间统计）) |
+|     [BehaviorLog（行为记录）](DGOWorld/3rd?id=behaviorlog（行为记录）)     |
 |                          BackupHelper（自动备份）                          |
-|                               BackgroundCmd                                |
 |                               ServerStopper                                |
+|                               BackgroundCmd                                |
+|                         AntiBeacon（修复信标 UI）                          |
 
 ---
 
@@ -76,9 +75,9 @@ DGOWorld 3rd 是 DGO 的国际外服，开放于`2021年7月6日`。
 
 ---
 
-#### Here（坐标回复）
+#### BehaviorLog（行为记录）
 
-服内输入`/here`可发送自己所在位置的坐标，以及当前位置对应主世界/下届的坐标。
+该插件记录了一切从开服至今的玩家行为，可以 [点此下载](https://cloud.189.cn/web/share?code=QrUJVbn2yUvu) 文件。
 
 ---
 

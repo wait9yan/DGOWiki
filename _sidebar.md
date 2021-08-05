@@ -17,30 +17,17 @@
 
 - 「基本信息」
 
-  - [管理职能](information/administratorsFunction)
   - [DGO 历史](information/DGOHistory)
+  - [DGOCraft](information/DGOCraft/3rd)
+  - [DGOWorld](information/DGOWorld/3rd)
 
-- 「DGOCraft」
+- 「社区」
 
-  - [介绍](DGOCraft/3rd)
-  - [作品汇总](DGOCraft/list)
-
-- 「DGOWorld」
-
-  - [介绍](DGOWorld/3rd)
-  - [聚落列表](DGOWorld/list)
-
-- 「玩家社区」
-
-  - [介绍](players/introduce)
-  - [玩家列表](players/list)
-
-- 「创作」
-
-  - [模板](creation/template)
+  - [活动](community/activities/list)
+  - [玩家列表](community/players/list)
+  - [创作列表](community/creation/list)
 
 - 「其他」
   - [联系我们](other/contact)
-  - [捐助我们](other/donate)
   - [加入创作组](other/joinCreation)
   - [加入管理组](other/joinManagement)

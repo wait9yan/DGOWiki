@@ -1,8 +1,9 @@
-<!-- DGOCraft/3rd -->
+<!-- information/DGOCraft/3rd -->
 
 # DGOCraft
 
 DGOCraft 3rd 是 DGO 的 1.16 版本国际服务器，曾经网易内服成员的新服务器。<br/>
+如今内服秉持着不换档，不随最新版更新的理念，在最纯粹的生存中建设村落、小镇、城邦乃至国度。
 
 <details>
 <summary>点此以查看「内服」详细信息</summary>
@@ -24,7 +25,7 @@ DGOCraft 3rd 是 DGO 的 1.16 版本国际服务器，曾经网易内服成员�
 
 ---
 
-## 插件目录
+## 插件列表
 
 |                                  插件目录                                  |
 | :------------------------------------------------------------------------: |
@@ -33,9 +34,9 @@ DGOCraft 3rd 是 DGO 的 1.16 版本国际服务器，曾经网易内服成员�
 |            [Here（坐标回复）](DGOCraft/3rd?id=here（坐标回复）)            |
 |                    [TrapDoor](DGOCraft/3rd?id=trapdoor)                    |
 |                         FakePlayers（假人客户端）                          |
-|                         AntiBeacon（修复信标 UI）                          |
 |                          BehaviorLog（行为记录）                           |
 |                               BackgroundCmd                                |
+|                         AntiBeacon（修复信标 UI）                          |
 
 ---
 
