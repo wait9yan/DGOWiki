@@ -15,15 +15,14 @@
   - [常见问题](guide/question)
   - [游玩手册](guide/play)
 
-- 「基本信息」
+- 「服务器信息」
 
-  - [DGO 历史](information/DGOHistory)
   - [DGOCraft](information/DGOCraft/3rd)
   - [DGOWorld](information/DGOWorld/3rd)
 
 - 「社区」
 
-  - [活动](community/activities/list)
+  - [举办活动](community/activities/list)
   - [玩家列表](community/players/list)
   - [创作列表](community/creation/list)
 

@@ -5,6 +5,8 @@
 DGOCraft 3rd 是 DGO 的 1.16 版本国际服务器，曾经网易内服成员的新服务器。<br/>
 如今内服秉持着不换档，不随最新版更新的理念，在最纯粹的生存中建设村落、小镇、城邦乃至国度。
 
+_(点此查看 [DGO 历史](information/DGOHistory) )_
+
 <details>
 <summary>点此以查看「内服」详细信息</summary>
 

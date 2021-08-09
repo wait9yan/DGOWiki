@@ -4,6 +4,8 @@
 
 DGOWorld 3rd 是 DGO 的国际外服，开放于`2021年7月6日`。
 
+_(点此查看 [DGO 历史](information/DGOHistory) )_
+
 <details>
 <summary>点此以查看「外服」详细信息</summary>
 
@@ -77,7 +79,7 @@ DGOWorld 3rd 是 DGO 的国际外服，开放于`2021年7月6日`。
 
 #### BehaviorLog（行为记录）
 
-该插件记录了一切从开服至今的玩家行为，可以 [点此下载](https://cloud.189.cn/web/share?code=QrUJVbn2yUvu) 文件。
+该插件记录了一切从开服至今的玩家行为，可以 [点此查看](http://159.75.116.151/index.php/s/JNC9ggQAmLQwF6b) 文件。
 
 ---
 

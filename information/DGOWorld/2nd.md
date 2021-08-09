@@ -4,6 +4,8 @@
 
 DGOWorld 2nd 是 DGO 的网易服务器，曾经「天朝」「蓬莱」综合服务器的延续。
 
+_(点此查看 [DGO 历史](information/DGOHistory) )_
+
 **可游玩玩家** <br/>
 拥有`旅客`或升级后的头衔。 _(详情见 [玩家头衔](information/playerTitle) )_
 
