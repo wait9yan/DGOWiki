@@ -10,33 +10,56 @@
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
     <link rel="stylesheet" type="text/css" href="docsify/vue.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+    <style>
+      :root {
+        --docsifytabs-border-color: #ededed;
+        --docsifytabs-tab-highlight-color:#42b983;
+      }
+    </style>
   </head>
 
   <body>
-    <nav>
-      <a target="_blank" href="//wiki.dgo.world">首页</a>
-    </nav>
     <div id="app">正在加载DGOWiki...</div>
     <script>
       window.$docsify = {
-        homepage: "README.md",
-        routerMode: "history",
+        repo:'',// github挂件
+        routerMode: "hash",// url模式
+        auto2top: true,
+        topMargin: 40,
+        noEmoji:true,
+        formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}',
+        plugins: [
+          function(hook, vm) {
+            hook.beforeEach(function (html) {
+                return html
+                      + '\n----\n'
+                      + '> 最后更新 {docsify-updated} '
+            })
+          }
+        ],
+        loadNavbar:'navbar.md',
+        loadSidebar:'sidebar.md',
+        autoHeader:true,
         name: "DGO Wiki",
         nameLink: "/",
-        loadSidebar: true,
-        auto2top: true,
-        maxLevel: 4,
-        subMaxLevel: 2,
-        topMargin: 40,
-        externalLinkTarget: "_blank",
+        subMaxLevel: 1,
         search: {
           depth: 3,
           noData: "未找到结果，换个搜索词试试？",
-          placeholder: "Search...",
+          placeholder: "搜索...",
+          namespace: "website-1",
+        },
+        sidebarDisplayLevel: 2,
+        toc: {
+          tocMaxLevel: 6,
+          target: "h1,h2, h3, h4, h5, h6",
         },
         pagination: {
           previousText: "上一章",
           nextText: "下一章",
+          crossChapter: true,
+          crossChapterText: true,
         },
         count:{
           countable: true,
@@ -48,25 +71,27 @@
           language:'chinese',
           localization: {
             words: "",
-            minute: ""
+            minute: "",
           },
           isExpected: false,
         },
-        toc: {
-          tocMaxLevel: 2,
-          target: "h2, h3, h4, h5, h6",
+        tabs: {
+            sync:true,
+            theme:'classic',
+            tabComments: true,
+            tabHeadings: true,
         }
-
       };
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/search.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2.6.1/dist/docsify-pagination.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/emoji.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/zoom-image.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-    <script src="//unpkg.com/docsify-plugin-toc"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js"></script> <!-- docsify -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/search.min.js"></script> <!-- 搜索 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> <!-- 侧边栏折叠 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-toc@1.2.1/dist/docsify-plugin-toc.min.js"></script> <!-- 文章目录导航 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2.6.1/dist/docsify-pagination.min.js"></script> <!-- 翻页 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script> <!-- 字数统计 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script> <!-- 多选项卡 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> <!-- 复制代码 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/zoom-image.min.js"></script> <!-- 图片缩放 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/emoji.min.js"></script> <!-- emoji表情 -->
   </body>
 </html>

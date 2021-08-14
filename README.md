@@ -1,6 +1,6 @@
-<!-- index -->
+<!-- README -->
 
-# 首页 | 索引
+# 🎨 首页 | 索引
 
 **欢迎，这里是 [DGO](notice/about) 的维基首页！** <br/>
 DGOWiki 记载着这个世界所经历的点滴，随着我们的不断发展，这里的内容将得到逐步的充实和完善！
@@ -14,10 +14,10 @@ DGOWiki 记载着这个世界所经历的点滴，随着我们的不断发展，
 
 ### Wiki 索引
 
-- [关于我们](notice/about) 📢 快速了解 DGO 服务器<br/>
-- [入服指南](notice/join) 🧭 想要入服的新人看这里<br/>
-- [玩家守则](notice/rules) 📜 对玩家行为的判定标准<br/>
-- [BUG 定义](notice/bugDefinition) ⚠️ 所规定可以使用的特性
+- [📢 关于我们](notice/about) | 快速了解 DGO 服务器<br/>
+- [🧭 入服流程](notice/join) | 想要入服的新人看这里<br/>
+- [📜 玩家守则](notice/rules) | 对玩家行为的判定标准<br/>
+- [🐛BUG 定义](notice/bugDefinition) | 所规定可以使用的特性
 
 ?> **友情提示** <br/>
 如果您想要从 Wiki 中了解更多，可以点击左下角的 <kbd>≡</kbd> 按钮。<br/>
