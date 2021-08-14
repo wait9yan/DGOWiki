@@ -19,15 +19,15 @@
     <div id="app">正在加载DGOWiki...</div>
     <script>
       window.$docsify = {
-        routerMode: "hash",
+        homepage: "README.md",
+        routerMode: "history",
         name: "DGO Wiki",
+        nameLink: "/",
         loadSidebar: true,
         auto2top: true,
         maxLevel: 4,
         subMaxLevel: 2,
-        nameLink: "/",
         topMargin: 40,
-        homepage: "/index.md",
         externalLinkTarget: "_blank",
         search: {
           depth: 3,
@@ -50,16 +50,23 @@
             words: "",
             minute: ""
           },
-          isExpected: false
+          isExpected: false,
+        },
+        toc: {
+          tocMaxLevel: 2,
+          target: "h2, h3, h4, h5, h6",
         }
+
       };
     </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2.6.1/dist/docsify-pagination.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/emoji.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+    <script src="//unpkg.com/docsify-plugin-toc"></script>
   </body>
 </html>
