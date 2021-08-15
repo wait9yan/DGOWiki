@@ -38,7 +38,7 @@ DGO 是群组服务器，这样可以为不同的玩家群体提供对应的游�
 **审核：**满足条件的外服成员，可通过此方式进入内服。 _(详情见 [内服审核流程](notice/join?id=审核流程内服) )_ <br/>
 **邀请：**满足条件的内服成员可邀请满足条件的玩家。 _(详情见 [邀请流程](notice/join?id=邀请流程) )_
 
-查询更多信息 → [DGOCraft](DGOCraft/3rd)
+查询更多信息 → [DGOCraft](information/DGOCraft/2nd)
 
 </details>
 
@@ -68,7 +68,7 @@ DGO 是群组服务器，这样可以为不同的玩家群体提供对应的游�
 「审核」：任何人可在开放审核的时间内申请，通过此方法进入外服。 _(详情见 [外服审核流程](/notice/join?id=审核流程外服) )_ <br/>
 「邀请」：满足条件的外服成员可邀请满足条件的玩家。 _(详情见 [邀请流程](notice/join?id=邀请流程) )_
 
-查询更多信息 → [DGOWorld](DGOWorld/3rd)
+查询更多信息 → [DGOWorld](information/DGOWorld/3rd)
 
 </details>
 

@@ -17,7 +17,7 @@
 
 - 内服信息
 
-  - [📃 DGOCraft 介绍](information/DGOCraft/3rd)
+  - [📃 DGOCraft 介绍](information/DGOCraft/2nd)
   - [🍳 作品汇总](information/DGOCraft/list)
 
 - 外服信息
