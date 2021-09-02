@@ -1,15 +1,10 @@
 <!-- information/DGOCraft/2nd -->
 
-DGOCraft 2nd 是 DGO 的 1.16 版本国际服务器，曾经网易内服成员的新服务器。<br/>
-如今内服秉持着不换档，不随最新版更新的理念，在最纯粹的生存中建设村落、小镇、城邦乃至国度。
+# 📃 DGOCraft 介绍
 
-_(点此查看 [DGO 历史](information/DGOHistory) )_
-
-<details>
-<summary>点此以查看「内服」详细信息</summary>
-
-**可游玩玩家** <br/>
-内服成员
+DGOCraft 2nd 是 DGO 的核心服务器，曾经网易内服成员的新服务器，开放于`2021年1月31日`。<br/>
+内服秉持着 **不换档，不随版本更新** 的基础规定，致力于发展成一流的纯生存服务器。<br/>
+有着严格的世界规划方案，以保障地图的不显凌乱。
 
 **服务器版本** <br/>
 `基岩版 1.16.201.02`
@@ -17,34 +12,28 @@ _(点此查看 [DGO 历史](information/DGOHistory) )_
 **世界设置** <br/>
 死亡掉落 / 生物破坏 / 火焰蔓延 / TNT 爆炸 / 开启坐标
 
-**加入「内服」的方式** <br/>
-**审核：**满足条件的外服成员，可通过此方式进入内服。 _(详情见 [内服审核流程](notice/join?id=审核流程内服) )_ <br/>
-**邀请：**满足条件的内服成员可邀请满足条件的玩家。 _(详情见 [邀请流程](notice/join?id=邀请流程) )_
-
-</details>
-
 ---
 
 ## 🔌 插件列表
 
-|                                  插件目录                                  |
-| :------------------------------------------------------------------------: |
-|          [更合理的合成表添加](DGOCraft/3rd?id=更合理的合成表添加)          |
-| [OnlineTimer（在线时间统计）](DGOCraft/3rd?id=onlinetimer（在线时间统计）) |
-|            [Here（坐标回复）](DGOCraft/3rd?id=here（坐标回复）)            |
-|                    [TrapDoor](DGOCraft/3rd?id=trapdoor)                    |
-|                         FakePlayers（假人客户端）                          |
-|                          BehaviorLog（行为记录）                           |
-|                               BackgroundCmd                                |
-|                         AntiBeacon（修复信标 UI）                          |
+|                                        插件目录                                        |
+| :------------------------------------------------------------------------------------: |
+|          [更合理地添加合成表](information/DGOCraft/2nd?id=更合理地添加合成表)          |
+|          [TrapDoor（活板门）](information/DGOCraft/2nd?id=TrapDoor（活板门）)          |
+|   [FakePlayers（假人客户端）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）)   |
+| [OnlineTimer（在线时间统计）](information/DGOCraft/2nd?id=onlinetimer（在线时间统计）) |
+|            [Here（坐标回复）](information/DGOCraft/2nd?id=here（坐标回复）)            |
+|                                BehaviorLog（行为记录）                                 |
+|                               BackgroundCmd（后台转发）                                |
+|                               AntiBeacon（修复信标 UI）                                |
 
 ---
 
-#### 更合理的合成表添加
+#### 更合理地添加合成表
 
 服内采用一定程度的物资共享制度，公共设施的物资共享，私人区域的物资私有。<br/>
-为了解决`较为重要且只能通过探索获得的不可再生资源紧缺`与`服务器存档过大导致卡顿`之间的矛盾，<br/>
-我们通过添加较为简易的的合成表来优化玩家的游玩体验。
+为了解决`较为重要且只能通过探索获得的不可再生资源紧缺`与`服务器存档过大`之间的矛盾，<br/>
+我们通过添加部分合成表来优化玩家的游玩体验。
 
 <!-- tabs:start -->
 
@@ -74,23 +63,21 @@ _(点此查看 [DGO 历史](information/DGOHistory) )_
 
 <!-- tabs:end -->
 
----
+#### TrapDoor（活板门）
+
+功能众多，可查看 [TrapDoor 中文 wiki](https://github.com/hhhxiao/TrapDoor/wiki/3.-%E5%8A%9F%E8%83%BD) 来了解如何使用该插件。
+
+#### FakePlayers（假人客户端）
+
+服内输入...
 
 #### OnlineTimer（在线时间统计）
 
 服内输入`/onlinetime`可查看自己总在线时间。
 
----
-
 #### Here（坐标回复）
 
 服内输入`/here`可发送自己所在位置的坐标，以及当前位置对应主世界/下届的坐标。
-
----
-
-#### TrapDoor
-
-功能众多，可查看 [TrapDoor 中文 wiki](https://github.com/hhhxiao/TrapDoor/wiki/3.-%E5%8A%9F%E8%83%BD) 来了解如何使用该插件。
 
 ---
 

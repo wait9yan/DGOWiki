@@ -1,3 +1,0 @@
-<!-- information/DGOWorld/list -->
-
-待编辑...

@@ -1,3 +1,0 @@
-<!-- information/DGOWorld/townMode -->
-
-待编辑...

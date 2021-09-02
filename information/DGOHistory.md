@@ -1,5 +1,7 @@
 <!-- information/DGOHistory -->
 
+# 📚 DGO 历史
+
 该页阐述了 DGO 从建服至今所发生的重大事件。
 
 ### DGO 外服

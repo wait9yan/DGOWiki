@@ -1,26 +1,14 @@
-<!-- information/DGOWorld/3rd -->
+<!-- information/DGOnline/3rd -->
 
-DGOWorld 3rd 是 DGO 的国际外服，开放于`2021年7月6日`。
+# 📃 DGOnline 介绍
 
-_(点此查看 [DGO 历史](information/DGOHistory) )_
-
-<details>
-<summary>点此以查看「外服」详细信息</summary>
-
-**可游玩玩家** <br/>
-外服 或 内服成员
+DGOWorld 3rd 是 DGO 的外服，开放于`2021年7月6日`。
 
 **服务器版本** <br/>
 `基岩版 1.17.10.04`
 
 **世界设置** <br/>
-死亡不掉落 / 生物破坏 / 火焰蔓延 / TNT 爆炸 / 开启坐标
-
-**加入「外服」的方式**<br/>
-「审核」：任何人可在开放审核的时间内申请，通过此方法进入外服。 _(详情见 [外服审核流程](/notice/join?id=审核流程外服) )_ <br/>
-「邀请」：满足条件的外服成员可邀请满足条件的玩家。 _(详情见 [邀请流程](notice/join?id=邀请流程) )_
-
-</details>
+死亡掉落 / 生物破坏 / 火焰蔓延 / TNT 爆炸 / 开启坐标
 
 ---
 
@@ -28,7 +16,7 @@ _(点此查看 [DGO 历史](information/DGOHistory) )_
 
 |                                  插件目录                                  |
 | :------------------------------------------------------------------------: |
-|          [更合理的合成表添加](DGOWorld/3rd?id=更合理的合成表添加)          |
+|          [更合理地添加合成表](DGOWorld/3rd?id=更合理地添加合成表)          |
 | [OnlineTimer（在线时间统计）](DGOWorld/3rd?id=onlinetimer（在线时间统计）) |
 |     [BehaviorLog（行为记录）](DGOWorld/3rd?id=behaviorlog（行为记录）)     |
 |                          BackupHelper（自动备份）                          |
@@ -38,11 +26,7 @@ _(点此查看 [DGO 历史](information/DGOHistory) )_
 
 ---
 
-#### 更合理的合成表添加
-
-服内采用一定程度的物资共享制度，公共设施的物资共享，私人区域的物资私有。<br/>
-为了解决`较为重要且只能通过探索获得的不可再生资源紧缺`与`服务器存档过大导致卡顿`之间的矛盾，<br/>
-我们通过添加较为简易的的合成表来优化玩家的游玩体验。
+#### 更合理地添加合成表
 
 <!-- tabs:start -->
 
@@ -72,17 +56,13 @@ _(点此查看 [DGO 历史](information/DGOHistory) )_
 
 <!-- tabs:end -->
 
----
-
 #### OnlineTimer（在线时间统计）
 
 服内输入`/onlinetime`可查看自己总在线时间。
 
----
-
 #### BehaviorLog（行为记录）
 
-该插件记录了一切从开服至今的玩家行为，可以 [点此查看](http://159.75.116.151/index.php/s/JNC9ggQAmLQwF6b) 文件。
+该插件记录了一切从开服至今的玩家行为，可以 [点此查看](http://159.75.116.151:9798/shareview?code=dgonline-logs#/logs?a=1) 文件。
 
 ---
 
