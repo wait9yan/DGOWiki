@@ -7,7 +7,7 @@ DGOCraft 2nd 是 DGO 的核心服务器，曾经网易内服成员的新服务�
 有着严格的世界规划方案，以保障地图的不显凌乱。
 
 **服务器版本** <br/>
-`基岩版 1.16.201.02`
+`基岩版 1.16.40`
 
 **世界设置** <br/>
 死亡掉落 / 生物破坏 / 火焰蔓延 / TNT 爆炸 / 开启坐标
@@ -22,7 +22,6 @@ DGOCraft 2nd 是 DGO 的核心服务器，曾经网易内服成员的新服务�
 |          [TrapDoor（活板门）](information/DGOCraft/2nd?id=TrapDoor（活板门）)          |
 |   [FakePlayers（假人客户端）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）)   |
 | [OnlineTimer（在线时间统计）](information/DGOCraft/2nd?id=onlinetimer（在线时间统计）) |
-|            [Here（坐标回复）](information/DGOCraft/2nd?id=here（坐标回复）)            |
 |                                BehaviorLog（行为记录）                                 |
 |                               BackgroundCmd（后台转发）                                |
 |                               AntiBeacon（修复信标 UI）                                |
@@ -74,10 +73,6 @@ DGOCraft 2nd 是 DGO 的核心服务器，曾经网易内服成员的新服务�
 #### OnlineTimer（在线时间统计）
 
 服内输入`/onlinetime`可查看自己总在线时间。
-
-#### Here（坐标回复）
-
-服内输入`/here`可发送自己所在位置的坐标，以及当前位置对应主世界/下届的坐标。
 
 ---
 
