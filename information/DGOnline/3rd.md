@@ -5,7 +5,7 @@
 DGOWorld 3rd 是 DGO 的外服，开放于`2021年7月6日`。
 
 **服务器版本** <br/>
-`基岩版 1.17.10.04`
+`基岩版 1.17.40.04`
 
 **世界设置** <br/>
 死亡掉落 / 生物破坏 / 火焰蔓延 / TNT 爆炸 / 开启坐标
@@ -14,15 +14,12 @@ DGOWorld 3rd 是 DGO 的外服，开放于`2021年7月6日`。
 
 ## 🔌 插件列表
 
-|                                  插件目录                                  |
-| :------------------------------------------------------------------------: |
-|          [更合理地添加合成表](DGOWorld/3rd?id=更合理地添加合成表)          |
-| [OnlineTimer（在线时间统计）](DGOWorld/3rd?id=onlinetimer（在线时间统计）) |
-|     [BehaviorLog（行为记录）](DGOWorld/3rd?id=behaviorlog（行为记录）)     |
-|                          BackupHelper（自动备份）                          |
-|                               ServerStopper                                |
-|                               BackgroundCmd                                |
-|                         AntiBeacon（修复信标 UI）                          |
+|                                        插件目录                                        |
+| :------------------------------------------------------------------------------------: |
+|          [更合理地添加合成表](information/DGOnline/3rd?id=更合理地添加合成表)          |
+| [OnlineTimer（在线时间统计）](information/DGOnline/3rd?id=onlinetimer（在线时间统计）) |
+|     [BehaviorLog（行为记录）](information/DGOnline/3rd?id=behaviorlog（行为记录）)     |
+|                                  Here（快速回复坐标）                                  |
 
 ---
 
@@ -62,7 +59,7 @@ DGOWorld 3rd 是 DGO 的外服，开放于`2021年7月6日`。
 
 #### BehaviorLog（行为记录）
 
-该插件记录了一切从开服至今的玩家行为，可以 [点此查看](http://159.75.116.151:9798/shareview?code=dgonline-logs#/logs?a=1) 文件。
+该插件记录了一切从开服至今的玩家行为，可以 [点此查看](http://cloud.dgo.world:9798/shareview?code=dgonline-logs#/logs?a=1) 文件。
 
 ---
 
