@@ -1,6 +1,6 @@
 <!-- sidebar -->
 
-- [首页 | 索引](README)
+- [首页 | 索引](index)
 
 - 📢 入服须知
 
@@ -22,7 +22,7 @@
 
 - 📘 外服信息
 
-  - [DGOnline 介绍](information/DGOnline/3rd)
+  - [DGOnline 介绍](information/DGOnline/4th)
   - [聚落模式](information/DGOnline/townMode)
   - [聚落列表](information/DGOnline/list)
 

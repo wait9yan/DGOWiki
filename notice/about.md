@@ -44,11 +44,11 @@ _( 查询更多内服信息见 [DGOCraft 介绍](information/DGOCraft/2nd) )_
 ?> 相较内服，外服可以体验到开荒探索的乐趣，生存冒险党可以在此游玩。<br/>
 这里欢迎各位喜欢讨论交流，并且可以将 Minecraft 当作一个社交游戏的玩家。<br/>
 相反，如果你仅仅将此当作玩玩而已的游戏，并且不与他人交流的话，也许你并不适合这个服务器。
-
+th
 **主动加入外服的方式**<br/>
 [外服审核](/notice/join?id=一、外服审核) | 任何人可在开放审核的时间内申请，通过此方法进入外服。
 
-_( 查询更多外服信息见 [DGOnline 介绍](information/DGOnline/3rd) )_
+_( 查询更多外服信息见 [DGOnline 介绍](information/DGOnline/4th) )_
 
 ---
 
