@@ -5,7 +5,7 @@
 我们正于 Minecraft 国际基岩版中运营着 **<原生 · 自然 · 公益>** 的服务器，本页概括性地介绍了其信息。<br/>
 如果您正在寻觅一个值得长久驻足之地，我们期望您通过它了解一下我们，并考虑成为我们中的一员。
 
-![](images/MinecraftBE.png)
+![](images/MinecraftBE.webp)
 
 ---
 
@@ -15,18 +15,18 @@
 
 是一个旨在通过持续长久的发展与建设，在最纯粹的生存中建设村落、小镇、城邦乃至国度的 **1.16.40** 服务器。
 
-<figure style='width:50%' >
-    <img draggable='false' src='images/DGOGroup_1.jpeg'/>
-    <figcaption style='text-align: center'>————『DGO 基建组』————</figcaption>
+<figure style='width:80%' >
+    <img draggable='false' src='images/DGOGroup_1.webp'/>
+    <figcaption style='text-align: center'>『DGO 基建组』</figcaption>
 </figure>
 
 #### # DGOWorld（外服）
 
 是一个旨在 生存的基础上倾向于玩家探索、互动，为更多的人提供和谐的生存环境且 **随版本更新** 的服务器。
 
-<figure style='width:50%' >
-    <img draggable='false' src='images/DGOnine.2nd_1.jpg'/>
-    <figcaption style='text-align: center'>————『DGO 外服』————</figcaption>
+<figure style='width:80%' >
+    <img draggable='false' src='images/DGOnine.2nd_1.webp'/>
+    <figcaption style='text-align: center'>『DGO 外服』</figcaption>
 </figure>
 
 ---
@@ -52,12 +52,12 @@
 
 <figure style='width:80%' >
     <iframe src="//player.bilibili.com/player.html?aid=540148674&bvid=BV1Mi4y187Gk&cid=174043148&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    <figcaption style='text-align: center'><a href='https://b23.tv/4Nu8dPN'>——『2020 年成果展示』——</a></figcaption>
+    <figcaption style='text-align: center'><a href='https://b23.tv/4Nu8dPN'>『2020 年成果展示』</a></figcaption>
 </figure>
 
 <figure style='width:80%' >
     <iframe src="//player.bilibili.com/player.html?aid=504223289&bvid=BV1Zg411T7qv&cid=369169295&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    <figcaption style='text-align: center'><a href='https://b23.tv/ApapYS9'>——『2021 年成果展示』——</a></figcaption>
+    <figcaption style='text-align: center'><a href='https://b23.tv/ApapYS9'>『2021 年成果展示』</a></figcaption>
 </figure>
 
 ---
