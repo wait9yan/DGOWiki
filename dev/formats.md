@@ -35,12 +35,14 @@
 
 !> 警告块
 
-<https://maraudern.github.io/dgowiki/#/> [文本超链接](http://www.example.com/)
+<https://maraudern.github.io/dgowiki/#/> 
 
-![图片](http://39.100.70.44:8000/images/index_rotation_pic1.jpg)
+[文本超链接](http://www.example.com/)
+
+![图片](../images/DGOGroup_1.jpeg)
 
 <figure style='text-align: center'>
-    <img draggable='false' src='http://39.100.70.44:8000/images/index_rotation_pic1.jpg'/>
+    <img draggable='false' src='../images/DGOGroup_1.jpeg'/>
     <figcaption>图片注释</figcaption>
 </figure>
 

@@ -51,9 +51,14 @@ _( [点此加入](https://jq.qq.com/?_wv=1027&k=fLYVZmGj) )_<br/>
 
 ### 一、外服审核
 
-1. **填写一份【DGO-入服申请表】** _( <mark>[点此填写](https://wj.qq.com/s2/5534523/a1b2/)</mark> )_ <br/>
+1. **填写一份【DGO-入服申请表】** _( <mark>[点此跳转](https://wj.qq.com/s2/5534523/a1b2/)</mark> )_ <br/>
    您可以在任意时间填写并提交`【DGO-入服申请表】`。<br/>
    管理组在收到申请表后，将在开放审核的时间内通过私信进行回复。
+
+<details>
+<summary>点此以查看内嵌的入服申请表</summary>
+<iframe style='width: 100%; height: 800px' src="https://wj.qq.com/s2/5534523/a1b2/" frameborder="0" allowfullscreen></iframe>
+</details>
 
 <!-- tabs:start -->
 
@@ -63,7 +68,7 @@ _( [点此加入](https://jq.qq.com/?_wv=1027&k=fLYVZmGj) )_<br/>
 此等级下审核员将私信申请者直接回绝申请，不存在过审的可能性。<br/>
 做 **回绝** 处理。
 
-#### **需复审**
+#### **待复审**
 
 在申请表中感受到真诚且积极的态度，但某方面有所欠缺。即被评为此等级。<br/>
 此等级下审核员将私信申请者进行复审，最后还有一份二审问卷。<br/>
