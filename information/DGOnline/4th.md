@@ -20,6 +20,7 @@ DGOWorld 4th 是 DGO 的外服，开放于`2022年1月6日`。
 | [OnlineTimer（在线时间统计）](information/DGOnline/4th?id=onlinetimer（在线时间统计）) |
 |     [BehaviorLog（行为记录）](information/DGOnline/4th?id=behaviorlog（行为记录）)     |
 |                                  Here（快速回复坐标）                                  |
+|                                        GPS 导航                                       |
 |                                        TPS 查询                                        |
 
 ---
