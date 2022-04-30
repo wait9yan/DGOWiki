@@ -5,7 +5,7 @@
 DGOWorld 4th 是 DGO 的外服，开放于`2022年1月6日`。
 
 **服务器版本** <br/>
-`基岩版 1.18.11.01`
+`基岩版 1.18.31.04`
 
 **世界设置** <br/>
 死亡掉落 / 生物破坏 / 火焰蔓延 / TNT 爆炸 / 开启坐标
@@ -17,7 +17,6 @@ DGOWorld 4th 是 DGO 的外服，开放于`2022年1月6日`。
 |                                        插件目录                                        |
 | :------------------------------------------------------------------------------------: |
 |          [更合理地添加合成表](information/DGOnline/4th?id=更合理地添加合成表)          |
-| [OnlineTimer（在线时间统计）](information/DGOnline/4th?id=onlinetimer（在线时间统计）) |
 |     [BehaviorLog（行为记录）](information/DGOnline/4th?id=behaviorlog（行为记录）)     |
 |                                  Here（快速回复坐标）                                  |
 |                                        GPS 导航                                        |
@@ -62,10 +61,6 @@ DGOWorld 4th 是 DGO 的外服，开放于`2022年1月6日`。
 | 金粒 |  金粒  | 金粒 |
 
 <!-- tabs:end -->
-
-#### OnlineTimer（在线时间统计）
-
-服内输入`/onlinetime`可查看自己总在线时间。
 
 #### BehaviorLog（行为记录）
 
