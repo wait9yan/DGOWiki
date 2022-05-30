@@ -9,7 +9,7 @@
 
 ## 一、准备客户端
 
-进入服务器前，您需要有条件安装 Minecraft 基岩版的设备 _（手机/电脑/NS）_ 和一个 Microsoft / Xbox  _（可使用常用邮箱免费注册)_ 账户。<br/>
+进入服务器前，您需要有条件安装 Minecraft 基岩版的设备 _（手机/电脑/NS）_ 和一个 Microsoft / Xbox _（可使用常用邮箱免费注册)_ 账户。<br/>
 而后我们会分别介绍`Android`、`IOS`、`Win`平台如何获取基岩版客户端。
 
 ---
@@ -27,7 +27,7 @@ Android 客户端可以通过 **谷歌商店** 购买及各种 **民间渠道** 
 民间渠道：
 
 [苦力怕论坛下载](https://klpbbs.com/xz)<br/>
-[MineBBS下载](https://www.minebbs.com/minecraft)
+[MineBBS 下载](https://www.minebbs.com/minecraft)
 
 </details>
 
@@ -41,7 +41,7 @@ Android 客户端可以通过 **谷歌商店** 购买及各种 **民间渠道** 
 
 #### Win 平台
 
-Win 客户端必须在 **微软商店** 购买游戏后才能游玩 _（￥71）_ ，包括各种 **民间渠道** 免费获取的 Appx 安装包。
+Win 客户端必须在 **微软商店** 购买游戏后才能游玩 _（￥ 71）_ ，包括各种 **民间渠道** 免费获取的 Appx 安装包。
 
 !> **提醒** <br/>
 如果微软商店上下载的 Win 客户端与服务器版本不同，需完成以下步骤降版本。
@@ -63,6 +63,15 @@ Win 客户端必须在 **微软商店** 购买游戏后才能游玩 _（￥71）
 
 3.  **在微软商店的设置中，关闭「自动更新应用」。** <br/>
     防止 Minecraft 自动更新到最新版导致无法游玩服务器。
+
+<details>
+<summary>点此以查看被折叠信息</summary>
+
+民间渠道：
+
+[MCBEBBS 下载](https://mcbebbs.cn/win10)
+
+</details>
 
 ---
 
