@@ -1,4 +1,4 @@
-<!-- community/creation/1002 -->
+<!-- community/creation/tutorialEnchanting -->
 
 # 附魔篇
 ## 附魔台附魔
