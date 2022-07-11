@@ -76,4 +76,4 @@ ps：关于小白塔请查阅[攻略.刷怪笼改造]()
 ● 青色染料=蓝色+绿色染料。</br>
 ● 灰色染料=黑色+白色染料。
 
-ps:关于哪些花种可以在哪些生物群系获得，可以参考[我的世界维基](https://wiki.biligame.com/mc/花)
+ps:关于哪些花种可以在哪些生物群系获得，可以参考<a href="https://wiki.biligame.com/mc/花" target="_blank">我的世界维基</a>
