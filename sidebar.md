@@ -44,6 +44,7 @@
 - 📖 创作章
 
   - [创作列表](community/creation/list)
+  - [教程.导入资源包](community/creation/importingResourcePacks)
 
 - 📞 其他
 

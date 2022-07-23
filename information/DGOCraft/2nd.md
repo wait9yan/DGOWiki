@@ -16,14 +16,14 @@ DGOCraft 2nd 是 DGO 的主要服务器，开放于`2021年1月31日`。<br/>
 
 ## 🔌 插件列表
 
-|                                        插件目录                                        |
-| :------------------------------------------------------------------------------------: |
-|          [更合理地添加合成表](information/DGOCraft/2nd?id=更合理地添加合成表)          |
-|          [TrapDoor（活板门）](information/DGOCraft/2nd?id=TrapDoor（活板门）)          |
-|   [FakePlayers（假人客户端）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）)   |
-| [OnlineTimer（在线时间统计）](information/DGOCraft/2nd?id=onlinetimer（在线时间统计）) |
-|                                BehaviorLog（行为记录）                                 |
-|                                  Here（快速回复坐标）                                  |
+|                                      插件目录                                      |
+| :--------------------------------------------------------------------------------: |
+|        [更合理地添加合成表](information/DGOCraft/2nd?id=更合理地添加合成表)        |
+|        [TrapDoor（活板门）](information/DGOCraft/2nd?id=TrapDoor（活板门）)        |
+| [FakePlayers（假人客户端）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）) |
+|                             AntiBeacon（修复信标 UI）                              |
+|                              BehaviorLog（行为日志）                               |
+|                                    Nillauncher                                     |
 
 ---
 
