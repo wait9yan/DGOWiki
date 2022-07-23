@@ -24,7 +24,7 @@
 
 iOS 用户可以使用系统自带的**文件**软件直接按照下图找到
 
-![pathIOS](../../images/pathiOS.jpeg)
+![pathIOS](../../images/pathIOS.jpeg)
 
 #### Android
 
