@@ -42,7 +42,7 @@ _(详情见 [加入创作组](other/joinCreation) )_
 
 > 服务器的发展离不开各位玩家的帮助，如果您有任何合理的意见或建议，欢迎向 [管理组](other/contact?id=管理组) 提出。——九言
 
-DGOWiki 上的所有文字内容 _(标有非原创除外)_ 均按照 [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源。<br/>
+DGOWiki 上的所有文字内容 _(标有非原创除外)_ 均按照 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源。<br/>
 若发现有人违反，请 [联系我们](other/contact) 举报。
 
 <!-- 这意味着使用本 wiki 内容只要注明来源并建立链接即可。<br/>
