@@ -8,21 +8,21 @@
 §3 <font color=#00AAAA>湖蓝色</font></br>
 §4 <font color=#AA0000>深红色</font></br>
 §5 <font color=#AA00AA>紫色</font></br>
-§6 金黄</br>
-§7 浅灰</br>
-§8 深灰</br>
-§9 蓝紫</br>
-§a 浅绿</br>
-§b 浅蓝</br>
-§c 淡红</br>
-§d 淡紫</br>
-§e 淡黄</br>
-§f 白色</br>
-§g 硬币金</br>
+§6 <font color=#FFAA00>金色</font></br>
+§7 <font color=#AAAAAA>灰色</font></br>
+§8 <font color=#555555>深灰色</font></br>
+§9 <font color=#5555FF>蓝色</font></br>
+§a <font color=#55FF55>绿色</font></br>
+§b <font color=#55FFFF>天蓝色</font></br>
+§c <font color=#FF5555>红色</font></br>
+§d <font color=#FF55FF>粉色</font></br>
+§e <font color=#FFFF55>黄色</font></br>
+§f <font color=#FFFFFF>白色</font></br>
+§g <font color=#DDD605>硬币金</font></br>
 ## 格式代码
 §k 乱码</br>
-§m 斜体字</br>
-§l 字体加粗</br>
+§m *斜体字*</br>
+§l **字体加粗**</br>
 §r 正常（重置文字样式）</br>
 
 <!--● 其他
