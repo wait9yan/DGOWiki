@@ -49,7 +49,7 @@ Fork 本项目，并在 `/community/players` 文件夹下创建一个与您游�
 您提交的内容将成为 Wiki 项目的一部分，并永久可以被查看和回滚。</br>
 因此请不要上传敏感信息，包括您的个人隐私信息。</br>
 我们无法保证当您上传了这些信息后不会被恶意利用。</br>
-您提交的内容将均按照 [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源，任何人都可以看到您的内容。
+您提交的内容将均按照 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源，任何人都可以看到您的内容。
 
 **我们会确保您的页面不被第三方篡改，包括我们本身。** DGOWiki 的更改记录公开透明。</br>
 我们会拒绝任何非您本人或您授权的人，对您的个人页面的修改行为。
