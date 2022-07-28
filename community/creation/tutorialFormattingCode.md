@@ -2,12 +2,12 @@
 
 # 格式化代码
 ## 颜色代码
-§0 黑色</br>
-§1 深蓝</br>
-§2 深绿</br>
-§3 天蓝</br>
-§4 红色</br>
-§5 深紫</br>
+§0 <font color=#000000>黑色</font></br>
+§1 <font color=#0000AA>深蓝色</font></br>
+§2 <font color=#00AA00>深绿色</font></br>
+§3 <font color=#00AAAA>湖蓝色</font></br>
+§4 <font color=#AA0000>深红色</font></br>
+§5 <font color=#AA00AA>紫色</font></br>
 §6 金黄</br>
 §7 浅灰</br>
 §8 深灰</br>
