@@ -15,17 +15,13 @@
 
 是一个旨在 通过持续长久的发展与建设，在最纯粹的生存中建设村落、小镇、城邦乃至国度的 **1.16.40** 服务器。
 
-![wd](images/DGOGroup_1.webp)
-
-<figcaption style='text-align: center'>『DGO 基建组』</figcaption>
+![](images/DGOGroup_1.webp '『DGO 基建组』')
 
 #### # DGOWorld（外服）
 
 是一个旨在 生存的基础上倾向于玩家探索、互动，为更多的人提供和谐的生存环境且 **随版本更新** 的服务器。
 
-![wd](images/DGOnine.2nd_1.webp)
-
-<figcaption style='text-align: center;'>『DGO 外服』</figcaption>
+![](images/DGOnine.2nd_1.webp '『DGO 外服』')
 
 ---
 
