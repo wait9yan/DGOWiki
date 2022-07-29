@@ -48,6 +48,26 @@
 				name: "DGOWiki",
 				nameLink: "/",
 				subMaxLevel: 1,
+			     plugins: [
+			   function (hook, vm) {
+			     hook.beforeEach(function (html) {
+			       date_url = 'https://api.github.com/repos/docsifyjs/docsify/commits?per_page=1&path=' + vm.config.basePath + vm.route.file;
+			       fetch(date_url)
+			         .then((response) => {
+			           return response.json();
+			         })
+			         .then((commits) => {
+			           var modified = commits[0]['commit']['committer']['date'].slice(0, 10);
+			           document.getElementById('last-modified').textContent = "Last Modified: " + modified;
+			         });
+			       return (
+			         html +
+			         '\n\n----\n\n' +
+			         '<span id="last-modified"></span>'
+			       );
+			     });
+			   }
+			 ],
 				search: {
 					depth: 3,
 					noData: "未找到结果，换个搜索词试试？",
