@@ -42,14 +42,6 @@
 				auto2top: true,
 				topMargin: 40,
 				noEmoji: false,
-				formatUpdated: "{YYYY}/{MM}/{DD} {HH}:{mm}",
-				plugins: [
-					function (hook, vm) {
-						hook.beforeEach(function (html) {
-							return html + "\n----\n" + "> 最后更新 {docsify-updated} ";
-						});
-					},
-				],
 				homepage: "index.md",
 				loadNavbar: "navbar.md",
 				loadSidebar: "sidebar.md",
@@ -93,6 +85,11 @@
 					tabComments: true,
 					tabHeadings: true,
 				},
+				timeUpdater: {
+					text: ">最后更新时间: {docsify-updated}",
+					formatUpdated: "{YYYY}/{MM}/{DD}",
+					whereToPlace: "bottom", // "top" or "bottom", default to "bottom"
+				},
 			};
 		</script>
 
@@ -116,6 +113,7 @@
 		<script src="docsify/docsify-copy-code.min.js"></script>
 		<script src="docsify/zoom-image.min.js"></script>
 		<script src="docsify/emoji.min.js"></script>
+		<script src="docsify/time-updater.min.js"></script>
 		<!-- /Javascript -->
 	</body>
 </html>
