@@ -4,3 +4,4 @@
 但是在特殊情况下，仍会使用基岩版译名，</br>
 标准译名请参考[我的世界维基](https://wiki.biligame.com/mc/Minecraft_WIKI:译名标准化)。
 
+此教程只面向1.16及以上的版本。
