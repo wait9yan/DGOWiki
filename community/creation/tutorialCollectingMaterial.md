@@ -29,18 +29,18 @@
 - 请查阅[攻略.获得染料](community/creation/tutorialCollectingDyes)
 
 ## 下界砖块
-- 可以与猪灵交易获得下界砖块<sup>[失效：1.16.100]</sup> 或 下界砖<sup>[新增：1.16.100]</sup>
-- 可以直接挖下界堡垒或者挖大量下界岩烧制下界砖
+- 可以与猪灵交易获得下界砖块<sup>[失效：1.16.100]</sup> 或 下界砖<sup>[新增：1.16.100]</sup>。
+- 可以直接挖下界堡垒或者挖大量下界岩烧制下界砖。
 - 有条件可以使用满配钻石镐+四级信标急迫 II buff<sup>[[1]](community/creation/tutorialCollectingMaterial?id=附录)</sup>。
 
 ## 荧石和红石灯
-- 拿精准采集镐去下界挖荧石。</br>
+- 拿精准采集镐去下界挖荧石。
 - 和牧师村民交易获得荧石粉<sup>[失效:1.18.30]</sup> 或 荧石<sup>[新增:1.18.30]</sup>。
 - 和猪灵交易获得荧石粉<sup>[失效：1.16.100]</sup>。
 
 ## 末地烛
-- 种紫颂花，不要告诉我你种不来。</br>
+- 种紫颂花，不要告诉我你种不来。
 - 制作烈焰人塔刷烈焰棒，烈焰棒+烧过的紫颂果就是末地烛了，产量很大。
 ---
 ## 附录
-[1]关于附魔请查阅[攻略.附魔篇](community/creation/tutorialEnchanting) [⤶1](community/creation/tutorialCollectingMaterial?id=木材)[⤶2](community/creation/tutorialCollectingMaterial?id=圆石和石头)[⤶3](community/creation/tutorialCollectingMaterial?id=混凝土)[⤶4](community/creation/tutorialCollectingMaterial?id=沙石)[⤶5](community/creation/tutorialCollectingMaterial?id=下界砖块)
+[1]关于附魔请查阅[攻略.附魔篇](community/creation/tutorialEnchanting)。 [⤶1](community/creation/tutorialCollectingMaterial?id=木材)[⤶2](community/creation/tutorialCollectingMaterial?id=圆石和石头)[⤶3](community/creation/tutorialCollectingMaterial?id=混凝土)[⤶4](community/creation/tutorialCollectingMaterial?id=沙石)[⤶5](community/creation/tutorialCollectingMaterial?id=下界砖块)
