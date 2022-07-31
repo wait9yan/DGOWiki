@@ -43,4 +43,5 @@
 - 制作烈焰人塔刷烈焰棒，烈焰棒+烧过的紫颂果就是末地烛了，产量很大。
 ---
 ## 附录
+
 [1]关于附魔请查阅[攻略.附魔篇](community/creation/tutorialEnchanting)。 [⤶1](community/creation/tutorialCollectingMaterial?id=木材)[⤶2](community/creation/tutorialCollectingMaterial?id=圆石和石头)[⤶3](community/creation/tutorialCollectingMaterial?id=混凝土)[⤶4](community/creation/tutorialCollectingMaterial?id=沙石)[⤶5](community/creation/tutorialCollectingMaterial?id=下界砖块)
