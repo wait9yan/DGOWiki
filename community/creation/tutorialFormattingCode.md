@@ -2,11 +2,28 @@
 
 # 格式化代码
 ## 颜色代码
-§0 <font color=#000000>黑色</font></br>
-§1 <font color=#0000AA>深蓝色</font></br>
-§2 <font color=#00AA00>深绿色</font></br>
-§3 <font color=#00AAAA>湖蓝色</font></br>
-§4 <font color=#AA0000>深红色</font></br>
+<table border=0>
+  <tr>
+    <td>§0</td>
+    <td><font color=#000000>黑色</font></td>
+  </tr>
+  <tr>
+    <td>§1</td>
+    <td><font color=#0000AA>深蓝色</font></td>
+  <tr>
+  </tr>
+    <td>§2</td>
+    <td><font color=#00AA00>深绿色</font></td>
+  <tr>
+  </tr>
+  <tr>
+    <td>§3</td>
+    <td><font color=#00AAAA>湖蓝色</font></td>
+  </tr>
+  <tr>
+    <td>§4</td>
+    <td><font color=#AA0000>深红色</font></td>
+  </tr>
 §5 <font color=#AA00AA>紫色</font></br>
 §6 <font color=#FFAA00>金色</font></br>
 §7 <font color=#AAAAAA>灰色</font></br>
@@ -19,6 +36,8 @@
 §e <font color=#FFFF55>黄色</font></br>
 §f <font color=#FFFFFF>白色</font></br>
 §g <font color=#DDD605>硬币金</font></br>
+  </tr>
+</table>
 ## 格式代码
 §k 乱码</br>
 §m *斜体字*</br>
