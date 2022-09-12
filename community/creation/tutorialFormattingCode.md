@@ -7,7 +7,7 @@
 <table class="font20 border">
     <thead>
         <tr class="align-left">
-            <th style="width:80px">代码</th><th style="width:150px;">效果</th>
+            <th style="width:80px;">代码</th><th style="width:150px;">效果</th>
         </tr>
     </thead>
     <tbody>
