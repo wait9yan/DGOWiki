@@ -52,12 +52,12 @@
 
 <figure style='width:80%' >
     <iframe src="//player.bilibili.com/player.html?aid=540148674&bvid=BV1Mi4y187Gk&cid=174043148&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    <figcaption style='text-align: center'><a href='https://b23.tv/4Nu8dPN'>『2020 年成果展示』</a></figcaption>
+    <figcaption class="align-center"><a href='https://b23.tv/4Nu8dPN'>『2020 年成果展示』</a></figcaption>
 </figure>
 
 <figure style='width:80%' >
     <iframe src="//player.bilibili.com/player.html?aid=504223289&bvid=BV1Zg411T7qv&cid=369169295&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-    <figcaption style='text-align: center'><a href='https://b23.tv/ApapYS9'>『2021 年成果展示』</a></figcaption>
+    <figcaption class="align-center"><a href='https://b23.tv/ApapYS9'>『2021 年成果展示』</a></figcaption>
 </figure>
 
 ---

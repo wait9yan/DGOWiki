@@ -53,7 +53,7 @@
 
 ![图片](../images/DGOGroup_1.jpeg)
 
-<figure style='text-align: center'>
+<figure class="align-center">
     <img draggable='false' src='../images/DGOGroup_1.webp'/>
     <figcaption>图片注释</figcaption>
 </figure>

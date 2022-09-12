@@ -10,6 +10,6 @@
   - [收集染料](community/creation/tutorialCollectingDyes)
   - [地狱交通](community/creation/tutorialNetherTraffic)
   - [地图墙](community/creation/tutorialMapWall)
-  - [格式代码](community/creation/tutorialFormattingCode)
+  - [格式化代码](community/creation/tutorialFormattingCode)
 - [城市规划](community/creation/tutorialCityPlanning)
 - [导入资源包](community/creation/tutorialImportingResourcePacks)
