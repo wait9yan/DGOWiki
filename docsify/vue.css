@@ -685,6 +685,7 @@ body {
   color: #858585;
   margin: 2em 0;
   padding-left: 20px;
+  display: inline-block;
 }
 .markdown-section blockquote p {
   font-weight: 600;
