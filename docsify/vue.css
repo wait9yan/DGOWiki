@@ -342,10 +342,10 @@ body.sticky .sidebar-toggle {
   padding: 6px 13px;
 }
 .markdown-section th {
-  border-color: #d9d9d9;
+  border-color: #d9d9d9; /*加深表头单元格边框*/
 }
 .markdown-section thead {
-  background-color: #e5e5e5;
+  background-color: #e5e5e5; /*将表头背景色加深*/
 }
 .markdown-section tr {
   border-top: 1px solid #ccc;
@@ -639,10 +639,10 @@ body {
 .markdown-section a {
   color: var(--theme-color, #42b983);
   font-weight: 600;
-  text-decoration: none;
+  text-decoration: none; /*删除超链接的下划线*/
 }
 .markdown-section a:hover {
-  text-decoration: underline;
+  text-decoration: underline; /*光标放置于超链接上时显示下划线*/
 }
 .markdown-section h1 {
   font-size: 2rem;
@@ -685,7 +685,7 @@ body {
   color: #858585;
   margin: 2em 0;
   padding-left: 20px;
-  display: inline-block;
+  display: inline-block; /*将引用块改为行内块元素，使得署名可以正确的靠右显示在引用块右侧*/
 }
 .markdown-section blockquote p {
   font-weight: 600;
@@ -695,7 +695,7 @@ body {
   font-weight: 600;
   text-align: right;
   margin-top: -1rem;
-}
+} /*署名类选择器，用于给引用块添加署名*/
 .markdown-section iframe {
   margin: 1em 0;
 }
