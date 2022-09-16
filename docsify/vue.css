@@ -689,12 +689,11 @@ body {
 }
 .markdown-section blockquote p {
   font-weight: 600;
-  margin-left: 0;
+  margin: 0;
 }
 .markdown-section blockquote div.quotefrom {
   font-weight: 600;
   text-align: right;
-  margin-top: -1rem;
 } /*署名类选择器，用于给引用块添加署名*/
 .markdown-section iframe {
   margin: 1em 0;
