@@ -77,7 +77,7 @@ DGOCraft 2nd 是 DGO 的主要服务器，开放于`2021年1月31日`。<br/>
 
 #### FakePlayers（假人客户端）
 
-服内输入...
+见[游玩手册](information/DGOCraft/play)
 
 #### OnlineTimer（在线时间统计）
 
