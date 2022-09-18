@@ -14,7 +14,7 @@
   --sidebar-a-color: #505D6B;
   --strong-color: #2C3E50;
   /*字体颜色*/
-}
+}/*浅色模式*/
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: #0D1117;
@@ -27,13 +27,13 @@
     /*背景颜色*/
     --text-color: #D4E9FE;
     --code-color: #F0F5FF;
-    --quote-color: #C5CAC4;
+    --quote-color: #C5CAD4;
     --sidebar-color: #D6E1E9;
     --sidebar-a-color: #D0DDEB;
     --strong-color: #CCDEF0;
     /*字体颜色*/
   }
-}
+}/*深色模式*/
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
