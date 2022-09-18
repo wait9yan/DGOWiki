@@ -5,6 +5,7 @@
   --tr-bg-color: #F8F8F8;
   --th-bg-color: #E5E5E5;
   --text-color: #34495E;
+  --sidebar-color: #364149;
   --strong-color: #2C3E50;
 }
 @media (prefers-color-scheme: dark) {
@@ -12,8 +13,9 @@
     --bg-color: #0D1117;
     --sidebar-toggle-bg-color: hsla(0%,0%,0%,0.8);
     --tr-bg-color: #15191F;
-    --th-bg-color: #272B31;
+    --th-bg-color: #00040A;
     --text-color: #D4E9FE;
+    --sidebar-color: #D6E1E9;
     --strong-color: #CCDEF0;
   }
 }
@@ -218,7 +220,7 @@ main.hidden {
   text-decoration: underline;
 }
 .sidebar {
-  border-right: 1px solid rgba(0, 0, 0, 0.07);
+  border-right: 1px solid #eee;
   overflow-y: auto;
   padding: 40px 0 0;
   position: absolute;
@@ -284,7 +286,7 @@ main.hidden {
 }
 .sidebar-toggle {
   background-color: transparent;
-  background-color: hsla(0, 0%, 100%, 0.8);
+  background-color: var(--sidebar-toggle-bg-color);
   border: 0;
   outline: none;
   padding: 10px;
@@ -618,7 +620,7 @@ body {
   background-color: var(--bg-color);
 }
 .sidebar {
-  color: #364149;
+  color: var(--sidebar-color);
 }
 .sidebar li {
   margin: 6px 0;
@@ -653,7 +655,7 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-  color: #2c3e50;
+  color: var(--strong-color);
   font-weight: 600;
 }
 .markdown-section a {
@@ -731,7 +733,7 @@ body {
 }
 .markdown-section code,
 .markdown-section pre {
-  background-color: #f8f8f8;
+  background-color: var(--td-bg-color);
   font-family: Roboto Mono, Monaco, courier, monospace;
 }
 .markdown-section pre {
@@ -823,7 +825,7 @@ body {
 .markdown-section pre > code {
   -moz-osx-font-smoothing: initial;
   -webkit-font-smoothing: initial;
-  background-color: #f8f8f8;
+  background-color: var(--td-bg-color);
   border-radius: 2px;
   color: #525252;
   display: block;
