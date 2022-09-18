@@ -1,4 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+:root {
+  --bg-color: #fff;
+  --text-color: #34495e;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1e1e22;
+    --text-color: #D4E9Fe;
+  }
+}
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -54,7 +64,7 @@ html {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: #34495e;
+  color: var(--text-color);
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
@@ -126,7 +136,7 @@ li input[type="checkbox"] {
   cursor: pointer;
 }
 .app-nav li ul {
-  background-color: #fff;
+  background-color: var(--bg-color);
   border: 1px solid;
   border-color: #ddd #ddd #ccc;
   border-radius: 4px;
@@ -599,7 +609,7 @@ section.cover blockquote > p > a:hover {
 }
 .sidebar,
 body {
-  background-color: #fff;
+  background-color: var(--bg-color);
 }
 .sidebar {
   color: #364149;
