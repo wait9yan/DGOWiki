@@ -9,6 +9,7 @@
   /*背景颜色*/
   --text-color: #34495E;
   --code-color: #525252;
+  --quote-color: #858585;
   --sidebar-color: #364149;
   --sidebar-a-color: #505D6B;
   --strong-color: #2C3E50;
@@ -25,7 +26,8 @@
     --tr2-bg-color: #0D1117;
     /*背景颜色*/
     --text-color: #D4E9FE;
-    --code-color: #F2F2F2;
+    --code-color: #F0F5FF;
+    --quote-color: #C5CAC4;
     --sidebar-color: #D6E1E9;
     --sidebar-a-color: #D0DDEB;
     --strong-color: #CCDEF0;
@@ -720,7 +722,7 @@ body {
 }
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #42b983);
-  color: #858585;
+  color: var(--quote-color);
   margin: 2em 0;
   padding-left: 20px;
   display: inline-block; /*将引用块改为行内块元素，使得署名可以正确的靠右显示在引用块右侧*/
