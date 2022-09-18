@@ -1,22 +1,33 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 :root {
   --bg-color: #FFF;
+  --code-bg-color: #F8F8F8;
   --sidebar-toggle-bg-color: hsla(0％,0%,100%,0.8);
-  --tr-bg-color: #F8F8F8;
   --th-bg-color: #E5E5E5;
+  --tr-bg-color: #FFF;
+  --tr2-bg-color: #F8F8F8;
+  /*背景颜色*/
   --text-color: #34495E;
+  code-color: #525252;
   --sidebar-color: #364149;
   --strong-color: #2C3E50;
+  /*字体颜色*/
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: #0D1117;
+    --code-bg-color: #15191F;
     --sidebar-toggle-bg-color: hsla(0%,0%,0%,0.8);
     --tr-bg-color: #15191F;
     --th-bg-color: #00040A;
+    --tr-bg-color: #15191F;
+    --tr2-bg-color: #0D1117;
+    /*背景颜色*/
     --text-color: #D4E9FE;
+    --code-color: #E2E2E2;
     --sidebar-color: #D6E1E9;
     --strong-color: #CCDEF0;
+    /*字体颜色*/
   }
 }
 * {
@@ -362,19 +373,21 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section td,
 .markdown-section th {
-  border: 1px solid #ddd;
+  border: 1px solid var(--tr-bg-color);
   padding: 6px 13px;
 }
 .markdown-section th {
   border-color: #d9d9d9;
-  background-color: var(--th-bg-color)
+  background-color: var(--th-bg-color);
 }
 .markdown-section tr {
   border-top: 1px solid #ccc;
 }
-.markdown-section p.tip,
+.markdown-section p.tip {
+  background-color: var(--code-bg-color);
+}
 .markdown-section tr:nth-child(2n) {
-  background-color: var(--tr-bg-color);
+  background-color: var(--tr2-bg-color);
 }
 .markdown-section p.tip {
   border-bottom-right-radius: 2px;
@@ -733,7 +746,7 @@ body {
 }
 .markdown-section code,
 .markdown-section pre {
-  background-color: var(--td-bg-color);
+  background-color: var(--code-bg-color);
   font-family: Roboto Mono, Monaco, courier, monospace;
 }
 .markdown-section pre {
@@ -825,9 +838,9 @@ body {
 .markdown-section pre > code {
   -moz-osx-font-smoothing: initial;
   -webkit-font-smoothing: initial;
-  background-color: var(--td-bg-color);
+  background-color: var(--code-bg-color);
   border-radius: 2px;
-  color: #525252;
+  color: var(--code-color);
   display: block;
   font-family: Roboto Mono, Monaco, courier, monospace;
   font-size: 0.8rem;
