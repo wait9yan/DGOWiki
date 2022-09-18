@@ -10,9 +10,13 @@
 ## 花
 花是合成各种染料至关重要的原料，所以了解各色花的来源有助于获得各色染料。</br>
 - 花会自然生成与各种生物群系中，在各种生物群系对草方块使用骨粉也会产生各色的花，</br>
-下图展示了各色花会在哪些群系自然生成或者使用骨粉生成：</br>
-![花](../../images/flower.jpg)</br>
-上图来自[我的世界维基](https://wiki.biligame.com/mc/花)，遵循[CC BY-NC-SA 3.0协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)。
+下图展示了各色花会在哪些群系自然生成或者使用骨粉生成：
+
+<figure>
+  <img src="images/flower.jpg" alt="各色花的获取方式"></img>
+  <figcaption>上图来自<a href="https://wiki.biligame.com/mc/花" target="_blank">我的世界维基</a>，遵循<a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">CC BY-NC-SA 3.0协议</a>。</figcaption>
+</figure>
+
 - 直接对 2 格高的花使用骨粉可以直接掉落一份相同的花。
 - 在草方块上对一格高的花（凋零玫瑰除外）使用骨粉可以在附近的草方块上生成相同的花。
 
