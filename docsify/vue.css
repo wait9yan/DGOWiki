@@ -8,8 +8,9 @@
   --tr2-bg-color: #F8F8F8;
   /*背景颜色*/
   --text-color: #34495E;
-  code-color: #525252;
+  --code-color: #525252;
   --sidebar-color: #364149;
+  --sidebar-a-color: #505D6B;
   --strong-color: #2C3E50;
   /*字体颜色*/
 }
@@ -24,8 +25,9 @@
     --tr2-bg-color: #0D1117;
     /*背景颜色*/
     --text-color: #D4E9FE;
-    --code-color: #E2E2E2;
+    --code-color: #F2F2F2;
     --sidebar-color: #D6E1E9;
+    --sidebar-a-color: #D0DDEB;
     --strong-color: #CCDEF0;
     /*字体颜色*/
   }
@@ -373,7 +375,7 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section td,
 .markdown-section th {
-  border: 1px solid var(--tr-bg-color);
+  border: 1px solid #ddd;
   padding: 6px 13px;
 }
 .markdown-section th {
@@ -382,6 +384,7 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section tr {
   border-top: 1px solid #ccc;
+  background-color: var(--tr-bg-color);
 }
 .markdown-section p.tip {
   background-color: var(--code-bg-color);
@@ -639,7 +642,7 @@ body {
   margin: 6px 0;
 }
 .sidebar ul li a {
-  color: #505d6b;
+  color: var(--sidebar-a-color);
   font-size: 14px;
   font-weight: 400;
   overflow: hidden;
