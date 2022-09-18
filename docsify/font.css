@@ -74,9 +74,7 @@
   width: 15px;
   height: 15px;
   margin-right: 0.3em;
-  border-width: 0.1mm;
-  border-style: solid;
-  border-color: #34495E;
+  border-width: 0.1mm solid #34495E;
   border-radius: 20%;
 } /*15px圆角正方形，用于展示颜色*/
 .bg-color-black{
@@ -130,3 +128,11 @@
 .bg-color-minecoin-gold{
   background-color: #DDD605;
 } /*17种背景颜色，与§所对应的17种文本颜色相同*/
+@media (prefers-color-scheme: dark) {
+  .stroke{
+  -webkit-text-stroke-color: #D4E9FE;
+  }
+  .block15 {
+  border-color: #D4E9FE; 
+  }
+}/*检测深色模式*/
