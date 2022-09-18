@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 :root {
-  --bg-color: #fff;
-  --text-color: #34495e;
+  --bg-color: #FFF;
+  --text-color: #34495E;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #1e1e22;
-    --text-color: #D4E9Fe;
+    --bg-color: #0D1117;
+    --text-color: #D4E9FE;
   }
 }
 * {
@@ -204,7 +204,7 @@ main.hidden {
   transition: all 0.3s;
 }
 .anchor span {
-  color: #34495e;
+  color: var(--text-color);
 }
 .anchor:hover {
   text-decoration: underline;
@@ -396,7 +396,7 @@ body.sticky .sidebar-toggle {
   background-color: #efefef;
 }
 .markdown-section p.tip em {
-  color: #34495e;
+  color: var(--text-color);
 }
 .markdown-section p.warn {
   background: rgba(66, 185, 131, 0.1);
