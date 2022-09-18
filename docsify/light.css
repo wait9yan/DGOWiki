@@ -21,6 +21,8 @@
 @media (prefers-color-scheme: dark) {
   aside.toc-nav {
     background: #15191F;
+ }
+  .page_toc {
     color: #D4E9FE;
   }
 }
