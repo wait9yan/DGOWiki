@@ -4,7 +4,7 @@
     opacity: 0.6;
     right: 0 !important;
     margin-right: 0 !important;
-    background: #fff;
+    background: #f8f8f8;
   }
   aside.toc-nav:hover {
     max-width: inherit;
@@ -15,6 +15,12 @@
 @media only screen and (min-width: 1300px) {
   section.content {
     padding-right: 250px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  aside.toc-nav {
+    background: #15191F;
   }
 }
 
