@@ -74,7 +74,7 @@
   width: 15px;
   height: 15px;
   margin-right: 0.3em;
-  border-width: 0.1mm solid #34495E;
+  border: 0.1mm solid #34495E;
   border-radius: 20%;
 } /*15px圆角正方形，用于展示颜色*/
 .bg-color-black{
