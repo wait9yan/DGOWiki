@@ -1,12 +1,20 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
 :root {
   --bg-color: #FFF;
+  --sidebar-toggle-bg-color: hsla(0％,0%,100%,0.8);
+  --tr-bg-color: #F8F8F8;
+  --th-bg-color: #E5E5E5;
   --text-color: #34495E;
+  --strong-color: #2C3E50;
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: #0D1117;
+    --sidebar-toggle-bg-color: hsla(0%,0%,0%,0.8);
+    --tr-bg-color: #15191F;
+    --th-bg-color: #272B31;
     --text-color: #D4E9FE;
+    --strong-color: #CCDEF0;
   }
 }
 * {
@@ -356,17 +364,15 @@ body.sticky .sidebar-toggle {
   padding: 6px 13px;
 }
 .markdown-section th {
-  border-color: #d9d9d9; /*加深表头单元格边框*/
-}
-.markdown-section thead {
-  background-color: #e5e5e5; /*将表头背景色加深*/
+  border-color: #d9d9d9;
+  background-color: var(--th-bg-color)
 }
 .markdown-section tr {
   border-top: 1px solid #ccc;
 }
 .markdown-section p.tip,
 .markdown-section tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: var(--tr-bg-color);
 }
 .markdown-section p.tip {
   border-bottom-right-radius: 2px;
@@ -463,7 +469,7 @@ body.close .content {
     transform: translateX(300px);
   }
   body.close .sidebar-toggle {
-    background-color: hsla(0, 0%, 100%, 0.8);
+    background-color: var(--sidebar-toggle-bg-color);
     transition: background-color 1s;
     width: 284px;
     padding: 10px;
