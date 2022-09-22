@@ -1,7 +1,3 @@
-.stroke {
-  -webkit-text-stroke: 0.1mm #34495E;
-  font-weight: 900;
-}
 .align-left{
   text-align: left;
 }
@@ -10,14 +6,18 @@
 }
 .align-right{
   text-align: right;
-}
+} /*三种对齐方式*/
 .font20{
   font-size: 20px;
   line-height: 25px;
-}
+} /*修改文字大小至20px*/
 .border{
   font-weight: 900;
-}
+} /*文本加粗，特粗*/
+.stroke {
+  -webkit-text-stroke: 0.1mm #34495E;
+  font-weight: 900;
+} /*文本描边，描边颜色与普通文本相同*/
 .black{
   color: #000;
 }
@@ -68,17 +68,15 @@
 }
 .minecoin-gold{
   color: #DDD605;
-}
+} /*17种文本颜色，与§所对应的17种文本颜色相同*/
 .block15{
   display: inline-block;
   width: 15px;
   height: 15px;
-  border-width: 0.1mm;
-  border-style: solid;
-  border-color: #34495E;
   margin-right: 0.3em;
+  border: 0.1mm solid #34495E;
   border-radius: 20%;
-}
+} /*15px圆角正方形，用于展示颜色*/
 .bg-color-black{
   background-color: #000;
 }
@@ -129,4 +127,12 @@
 }
 .bg-color-minecoin-gold{
   background-color: #DDD605;
-}
+} /*17种背景颜色，与§所对应的17种文本颜色相同*/
+@media (prefers-color-scheme: dark) {
+  .stroke{
+  -webkit-text-stroke-color: #D4E9FE;
+  }
+  .block15 {
+  border-color: #D4E9FE; 
+  }
+}/*检测深色模式*/

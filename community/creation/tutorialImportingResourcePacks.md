@@ -5,15 +5,19 @@
 
 ## 文件格式为 mcpack
 
-### iOS 或 Android
+<!-- tabs:start -->
+
+#### **iOS 或 Android**
 
 此种文件格式的资源包导入最为简单，找到使用其他应用打开或分享按钮，再选择使用我的世界打开。
 
 ![mcpack](../../images/mcpack.jpeg)
 
-### Windows
+#### **Windows**
 
 待编辑...
+
+<!-- tabs:end -->
 
 ## 文件格式为 zip
 
@@ -21,21 +25,25 @@
 
 在教程开始之前，需要知道 games 文件夹的路径，方便后续操作。
 
-#### iOS
+<!-- tabs:start -->
+
+#### **iOS**
 
 iOS 用户可以使用系统自带的**文件**软件直接按照下图找到：
 
 ![pathIOS](../../images/pathIOS.jpeg)
 
-#### Android
+#### **Android**
 
 1.18.0 以上的版本可以按照以下路径找到：</br>
 `Android/data/com.mojang.minecraftpe/files/games`</br>
 而 1.18.0 以下的版本可以直接在目录中找到 games 文件夹。
 
-#### Windows
+#### **Windows**
 
 待编辑...
+
+<!-- tabs:end -->
 
 首先解压此文件，或直接预览此压缩包（如果文件管理器允许）。
 

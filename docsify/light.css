@@ -4,7 +4,7 @@
     opacity: 0.6;
     right: 0 !important;
     margin-right: 0 !important;
-    background: #fff;
+    background: #f8f8f8;
   }
   aside.toc-nav:hover {
     max-width: inherit;
@@ -83,7 +83,7 @@ aside.toc-nav.nothing {
 }
 
 .page_toc div[class^="lv"] a span {
-  color: var(--sidebar-nav-link-color--hover, var(--sidebar-nav-link-color));
+  color: #000;
   display: block;
   overflow: hidden;
   white-space: nowrap;
@@ -108,4 +108,13 @@ aside.toc-nav.nothing {
 
 .page_toc div.lv6 {
   text-indent: 60px;
+}
+
+@media (prefers-color-scheme: dark) {
+  aside.toc-nav {
+    background: #15191F;
+  }
+  .page_toc div[class^="lv"] a span {
+    color: #D4E9FE;
+  }
 }
