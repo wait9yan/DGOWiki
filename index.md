@@ -38,6 +38,7 @@
 _(详情见 [加入创作组](other/joinCreation) )_
 
 > 服务器的发展离不开各位玩家的帮助，如果您有任何合理的意见或建议，欢迎向 [管理组](other/contact?id=管理组) 提出。
+>
 > <div class="quotefrom">——九言</div>
 
 DGOWiki 上的所有文字内容 _(标有非原创除外)_ 均按照 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源。<br/>
@@ -47,4 +48,4 @@ DGOWiki 上的所有文字内容 _(标有非原创除外)_ 均按照 [CC BY-NC-N
 但是任何非创作者不能对本 Wiki 内容做出任何形式的修改或者进行商业性使用。<br/> -->
 
 > [!ATTENTION|label:修改中]
-目前，此 Wiki 的内容正处于逐渐修改的过程，这会持续数月的时间，在此期间带来的误会和不便，请谅解。
+> 目前，此 Wiki 的内容正处于逐渐修改的过程，这会持续数月的时间，在此期间带来的误会和不便，请谅解。

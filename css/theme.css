@@ -1,0 +1,35 @@
+/*此文件用于存放与主题相关变量及样式*/
+body {
+	--bg-color: #fff;
+	--code-bg-color: #f8f8f8;
+	--sidebar-toggle-bg-color: hsla(0％, 0%, 100%, 0.8);
+	--th-bg-color: #e5e5e5;
+	--tr-bg-color: #fff;
+	--tr2-bg-color: #f8f8f8;
+	/*背景颜色*/
+	--text-color: #34495e;
+	--code-color: #525252;
+	--quote-color: #858585;
+	--sidebar-color: #364149;
+	--sidebar-a-color: #505d6b;
+	--strong-color: #2c3e50;
+	/*字体颜色*/
+	transition: background-color 0.25s ease-out 0s, color 0.25s ease-out 0s;
+} /*浅色模式*/
+body.dark {
+	--bg-color: #0d1117;
+	--code-bg-color: #15191f;
+	--docsifytabs-tab-background: #15191f !important;
+	--sidebar-toggle-bg-color: hsla(0%, 0%, 0%, 0.8);
+	--th-bg-color: #00040a;
+	--tr-bg-color: #15191f;
+	--tr2-bg-color: #0d1117;
+	/*背景颜色*/
+	--text-color: #d4e9fe;
+	--code-color: #f0f5ff;
+	--quote-color: #c5cad4;
+	--sidebar-color: #d6e1e9;
+	--sidebar-a-color: #d0ddeb;
+	--strong-color: #ccdef0;
+} /*字体颜色*/
+/*深色模式*/

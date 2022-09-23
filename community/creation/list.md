@@ -1,6 +1,7 @@
 <!-- community/creation/list -->
 
 # 📖 创作列表
+
 - [MC 好无聊，我们该做什么？](community/creation/tutorialWhatToDo)
 - **教程：**
   - [教程前言](community/creation/tutorialIndex)

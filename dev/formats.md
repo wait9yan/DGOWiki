@@ -58,8 +58,6 @@
     <figcaption>图片注释</figcaption>
 </figure>
 
-
-
 | 表头 1 | 表头 2 | 表头 3 |
 | :----: | :----: | :----: |
 |  表体  |  表体  |  表体  |
@@ -71,24 +69,20 @@
 aaaaaaaaa
 </details>
 
-
 <!-- panels:start -->
 <!-- div:title-panel -->
 
-  (...) - Awesome title
+(...) - Awesome title
 
 <!-- div:left-panel -->
 
-  (...) - Awesome explanation
+(...) - Awesome explanation
 
 <!-- div:right-panel -->
 
-
-  (...) - Awesome example
+(...) - Awesome example
 
 <!-- panels:end -->
-
-
 
 ## Flexible Alerts 语法
 
@@ -108,111 +102,111 @@ Assuming you have a working [docsify](https://docsify.js.org) app set up, it is 
 
 1. Add the following script tag to your `index.html`
 
-    ```html
-    <!-- Latest -->
-    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-    ```
+   ```html
+   <!-- Latest -->
+   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+   ```
 
 2. In docsify setup configure the plugin so it does fit your needs. A custom setup is not mandatory. By default styles `flat` and `callout` (Default: `callout`) and types `NOTE`, `TIP`, `WARNING` and `ATTENTION` are supported.
 
-    You can change it using plugin configuration via `index.html` or for a single alert in your markdown files. (please see section `Customizations` for further details)
+   You can change it using plugin configuration via `index.html` or for a single alert in your markdown files. (please see section `Customizations` for further details)
 
-    **Sample `index.html` file using style `flat` instead of `callout`**
+   **Sample `index.html` file using style `flat` instead of `callout`**
 
-    ```javascript
-    <script>
-      window.$docsify = {
-        'flexible-alerts': {
-          style: 'flat'
-        }
-      };
-    </script>
-    ```
+   ```javascript
+   <script>
+     window.$docsify = {
+       'flexible-alerts': {
+         style: 'flat'
+       }
+     };
+   </script>
+   ```
 
-    **Sample `index.html` using custom headings**
+   **Sample `index.html` using custom headings**
 
-    ```javascript
-    <script>
-      window.$docsify = {
-        'flexible-alerts': {
-          note: {
-            label: "Hinweis"
-          },
-          tip: {
-            label: "Tipp"
-          },
-          warning: {
-            label: "Warnung"
-          },
-          attention: {
-            label: "Achtung"
-          }
-        }
-      };
-    </script>
-    ```
+   ```javascript
+   <script>
+     window.$docsify = {
+       'flexible-alerts': {
+         note: {
+           label: "Hinweis"
+         },
+         tip: {
+           label: "Tipp"
+         },
+         warning: {
+           label: "Warnung"
+         },
+         attention: {
+           label: "Achtung"
+         }
+       }
+     };
+   </script>
+   ```
 
-    **Sample `index.html` using multilingual headings**
+   **Sample `index.html` using multilingual headings**
 
-    ```javascript
-    <script>
-      window.$docsify = {
-        'flexible-alerts': {
-          note: {
-            label: {
-              '/de-DE/': 'Hinweis',
-              '/': 'Note'
-            }
-          },
-          tip: {
-            label: {
-              '/de-DE/': 'Tipp',
-              '/': 'Tip'
-            }
-          },
-          warning: {
-            label: {
-              '/de-DE/': 'Warnung',
-              '/': 'Warning'
-            }
-          },
-          attention: {
-            label: {
-              '/de-DE/': 'Achtung',
-              '/': 'Attention'
-            }
-          }
-        }
-      };
-    </script>
-    ```
+   ```javascript
+   <script>
+     window.$docsify = {
+       'flexible-alerts': {
+         note: {
+           label: {
+             '/de-DE/': 'Hinweis',
+             '/': 'Note'
+           }
+         },
+         tip: {
+           label: {
+             '/de-DE/': 'Tipp',
+             '/': 'Tip'
+           }
+         },
+         warning: {
+           label: {
+             '/de-DE/': 'Warnung',
+             '/': 'Warning'
+           }
+         },
+         attention: {
+           label: {
+             '/de-DE/': 'Achtung',
+             '/': 'Attention'
+           }
+         }
+       }
+     };
+   </script>
+   ```
 
 #### Step #2 - Prepare documentation
 
 Modify or add a new blockquote so it matches required syntax like shown in following examples:
 
-* Sample alert using type `NOTE`
+- Sample alert using type `NOTE`
 
   ```markdown
   > [!NOTE]
   > An alert of type 'note' using global style 'callout'.
   ```
 
-* Sample alert using type `TIP`
+- Sample alert using type `TIP`
 
   ```markdown
   > [!TIP]
   > An alert of type 'tip' using global style 'callout'.
   ```
 
-* Sample alert using type `WARNING`
+- Sample alert using type `WARNING`
 
   ```markdown
   > [!WARNING]
   > An alert of type 'warning' using global style 'callout'.
   ```
 
-* Sample alert using type `ATTENTION`
+- Sample alert using type `ATTENTION`
 
   ```markdown
   > [!ATTENTION]
@@ -239,14 +233,14 @@ To use the plugin just modify an existing blockquote and prepend a line matching
 
 As you can see in the second snippet, output can be configured on alert level also. Supported options are listed in following table:
 
-| Key            | Allowed value |
-| --------------- | ---- |
-| style | One of follwowing values: callout, flat |
-| label  | Any text |
-| icon  | A valid Font Awesome icon, e.g. 'fas fa-comment' |
-| className  | A name of a CSS class which specifies the look and feel |
-| labelVisibility | One of follwowing values: visible (default), hidden |
-| iconVisibility  | One of follwowing values: visible (default), hidden |
+| Key             | Allowed value                                           |
+| --------------- | ------------------------------------------------------- |
+| style           | One of follwowing values: callout, flat                 |
+| label           | Any text                                                |
+| icon            | A valid Font Awesome icon, e.g. 'fas fa-comment'        |
+| className       | A name of a CSS class which specifies the look and feel |
+| labelVisibility | One of follwowing values: visible (default), hidden     |
+| iconVisibility  | One of follwowing values: visible (default), hidden     |
 
 Multiple options can be used for single alerts as shown below:
 

@@ -50,6 +50,6 @@ iOS 用户可以使用系统自带的**文件**软件直接按照下图找到：
 - 若解压后有文件格式为 mcpack 的文件，那么直接按照[文件格式为 mcpack 的方式](community/creation/tutorialImportingResourcePacks?id=文件格式为-mcpack)导入。
 
 - 若解压得到的文件夹里有 manifest.json 文件，</br>
-则可以将 manifest.json 文件所在的文件夹移动到`games/com.mojang/resource_packs`文件夹中，</br>
-或将原压缩包移动至`games/com.mojang/development_resource_packs`文件夹中，</br>
-再或直接全选 manifest.json 所在文件夹中的所有文件，进行 zip 压缩，并将压缩所得的 zip 文件直接重命名为格式为 mcpack 的文件，再通过[文件格式为 mcpack 的方式](community/creation/tutorialImportingResourcePacks?id=文件格式为-mcpack)导入。
+  则可以将 manifest.json 文件所在的文件夹移动到`games/com.mojang/resource_packs`文件夹中，</br>
+  或将原压缩包移动至`games/com.mojang/development_resource_packs`文件夹中，</br>
+  再或直接全选 manifest.json 所在文件夹中的所有文件，进行 zip 压缩，并将压缩所得的 zip 文件直接重命名为格式为 mcpack 的文件，再通过[文件格式为 mcpack 的方式](community/creation/tutorialImportingResourcePacks?id=文件格式为-mcpack)导入。

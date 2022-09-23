@@ -1,0 +1,130 @@
+.align-left {
+	text-align: left;
+}
+.align-center {
+	text-align: center;
+}
+.align-right {
+	text-align: right;
+} /*三种对齐方式*/
+.font20 {
+	font-size: 20px;
+	line-height: 25px;
+} /*修改文字大小至20px*/
+.border {
+	font-weight: 900;
+} /*文本加粗，特粗*/
+.stroke {
+	-webkit-text-stroke: 0.1mm var(--text-color, #34495e);
+	font-weight: 900;
+} /*文本描边，描边颜色与普通文本相同*/
+.black {
+	color: #000;
+}
+.dark-blue {
+	color: #00a;
+}
+.dark-green {
+	color: #0a0;
+}
+.dark-aqua {
+	color: #0aa;
+}
+.dark-red {
+	color: #a00;
+}
+.dark-purple {
+	color: #a0a;
+}
+.gold {
+	color: #fa0;
+}
+.gray {
+	color: #aaa;
+}
+.dark-gray {
+	color: #555;
+}
+.blue {
+	color: #55f;
+}
+.green {
+	color: #5f5;
+}
+.aqua {
+	color: #5ff;
+}
+.red {
+	color: #f55;
+}
+.light-purple {
+	color: #f5f;
+}
+.yellow {
+	color: #ff5;
+}
+.white {
+	color: #fff;
+}
+.minecoin-gold {
+	color: #ddd605;
+} /*17种文本颜色，与§所对应的17种文本颜色相同*/
+.block15 {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	margin-right: 0.3em;
+	border: 0.1mm solid var(--text-color, #34495e);
+	border-radius: 20%;
+} /*15px圆角正方形，用于展示颜色*/
+.bg-color-black {
+	background-color: #000;
+}
+.bg-color-dark-blue {
+	background-color: #00a;
+}
+.bg-color-dark-green {
+	background-color: #0a0;
+}
+.bg-color-dark-aqua {
+	background-color: #0aa;
+}
+.bg-color-dark-red {
+	background-color: #a00;
+}
+.bg-color-dark-purple {
+	background-color: #a0a;
+}
+.bg-color-gold {
+	background-color: #fa0;
+}
+.bg-color-gray {
+	background-color: #aaa;
+}
+.bg-color-dark-gray {
+	background-color: #555;
+}
+.bg-color-blue {
+	background-color: #55f;
+}
+.bg-color-green {
+	background-color: #5f5;
+}
+.bg-color-aqua {
+	background-color: #5ff;
+}
+.bg-color-red {
+	background-color: #f55;
+}
+.bg-color-light-purple {
+	background-color: #f5f;
+}
+.bg-color-yellow {
+	background-color: #ff5;
+}
+.bg-color-white {
+	background-color: #fff;
+}
+.bg-color-minecoin-gold {
+	background-color: #ddd605;
+} /*17种背景颜色，与§所对应的17种文本颜色相同*/
