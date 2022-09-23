@@ -29,6 +29,7 @@ aside.toc-nav {
   flex: 0 0 auto;
   overflow-y: auto;
   max-height: 70%;
+  background-color: var(--code-bg-color,#f8f8f8);
 }
 
 aside.toc-nav.nothing {
@@ -83,7 +84,7 @@ aside.toc-nav.nothing {
 }
 
 .page_toc div[class^="lv"] a span {
-  color: #000;
+  color: var(--text-color,#34495e);
   display: block;
   overflow: hidden;
   white-space: nowrap;
@@ -108,13 +109,4 @@ aside.toc-nav.nothing {
 
 .page_toc div.lv6 {
   text-indent: 60px;
-}
-
-@media (prefers-color-scheme: dark) {
-  aside.toc-nav {
-    background: #15191F;
-  }
-  .page_toc div[class^="lv"] a span {
-    color: #D4E9FE;
-  }
 }
