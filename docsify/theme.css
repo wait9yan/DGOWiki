@@ -1,5 +1,5 @@
 /*此文件用于存放与主题相关变量及样式*/
-:root {
+body {
   --bg-color: #FFF;
   --code-bg-color: #F8F8F8;
   --sidebar-toggle-bg-color: hsla(0％,0%,100%,0.8);
