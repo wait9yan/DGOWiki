@@ -1,39 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
-:root {
-  --bg-color: #FFF;
-  --code-bg-color: #F8F8F8;
-  --sidebar-toggle-bg-color: hsla(0％,0%,100%,0.8);
-  --th-bg-color: #E5E5E5;
-  --tr-bg-color: #FFF;
-  --tr2-bg-color: #F8F8F8;
-  /*背景颜色*/
-  --text-color: #34495E;
-  --code-color: #525252;
-  --quote-color: #858585;
-  --sidebar-color: #364149;
-  --sidebar-a-color: #505D6B;
-  --strong-color: #2C3E50;
-  /*字体颜色*/
-}/*浅色模式*/
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: #0D1117;
-    --code-bg-color: #15191F;
-    --sidebar-toggle-bg-color: hsla(0%,0%,0%,0.8);
-    --tr-bg-color: #15191F;
-    --th-bg-color: #00040A;
-    --tr-bg-color: #15191F;
-    --tr2-bg-color: #0D1117;
-    /*背景颜色*/
-    --text-color: #D4E9FE;
-    --code-color: #F0F5FF;
-    --quote-color: #C5CAD4;
-    --sidebar-color: #D6E1E9;
-    --sidebar-a-color: #D0DDEB;
-    --strong-color: #CCDEF0;
-    /*字体颜色*/
-  }
-}/*深色模式*/
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -89,7 +54,7 @@ html {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  color: var(--text-color);
+  color: var(--text-color,#34495e);
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
   font-size: 15px;
   letter-spacing: 0;
@@ -301,7 +266,7 @@ main.hidden {
 }
 .sidebar-toggle {
   background-color: transparent;
-  background-color: var(--sidebar-toggle-bg-color);
+  background-color: var(--sidebar-toggle-bg-color,hsla(0%,0%,100%,0.8));
   border: 0;
   outline: none;
   padding: 10px;
@@ -382,17 +347,17 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section th {
   border-color: #d9d9d9;
-  background-color: var(--th-bg-color);
+  background-color: var(--th-bg-color,#e5e5e5);
 }
 .markdown-section tr {
   border-top: 1px solid #ccc;
-  background-color: var(--tr-bg-color);
+  background-color: var(--tr-bg-color,#fff);
 }
 .markdown-section p.tip {
-  background-color: var(--code-bg-color);
+  background-color: var(--code-bg-color,#f8f8f8);
 }
 .markdown-section tr:nth-child(2n) {
-  background-color: var(--tr2-bg-color);
+  background-color: var(--tr2-bg-color,#f8f8f8);
 }
 .markdown-section p.tip {
   border-bottom-right-radius: 2px;
@@ -422,7 +387,7 @@ body.sticky .sidebar-toggle {
   background-color: #efefef;
 }
 .markdown-section p.tip em {
-  color: var(--text-color);
+  color: var(--text-color,#34495e);
 }
 .markdown-section p.warn {
   background: rgba(66, 185, 131, 0.1);
@@ -635,16 +600,16 @@ section.cover blockquote > p > a:hover {
 }
 .sidebar,
 body {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color,#fff);
 }
 .sidebar {
-  color: var(--sidebar-color);
+  color: var(--sidebar-color,#364149);
 }
 .sidebar li {
   margin: 6px 0;
 }
 .sidebar ul li a {
-  color: var(--sidebar-a-color);
+  color: var(--sidebar-a-color,#505d6e);
   font-size: 14px;
   font-weight: 400;
   overflow: hidden;
@@ -673,7 +638,7 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-  color: var(--strong-color);
+  color: var(--strong-color,#2c3e50);
   font-weight: 600;
 }
 .markdown-section a {
@@ -722,7 +687,7 @@ body {
 }
 .markdown-section blockquote {
   border-left: 4px solid var(--theme-color, #42b983);
-  color: var(--quote-color);
+  color: var(--quote-color,#858585);
   margin: 2em 0;
   padding-left: 20px;
   display: inline-block; /*将引用块改为行内块元素，使得署名可以正确的靠右显示在引用块右侧*/
@@ -751,7 +716,7 @@ body {
 }
 .markdown-section code,
 .markdown-section pre {
-  background-color: var(--code-bg-color);
+  background-color: var(--code-bg-color,#fff);
   font-family: Roboto Mono, Monaco, courier, monospace;
 }
 .markdown-section pre {
@@ -843,9 +808,9 @@ body {
 .markdown-section pre > code {
   -moz-osx-font-smoothing: initial;
   -webkit-font-smoothing: initial;
-  background-color: var(--code-bg-color);
+  background-color: var(--code-bg-color,#fff);
   border-radius: 2px;
-  color: var(--code-color);
+  color: var(--code-color,#525252);
   display: block;
   font-family: Roboto Mono, Monaco, courier, monospace;
   font-size: 0.8rem;
