@@ -19,7 +19,7 @@
 body.dark {
   --bg-color: #0D1117;   
   --code-bg-color: #15191F;
-  --docsifytabs-tab-background:#15191f; !important
+  --docsifytabs-tab-background:#15191f !important;
   --sidebar-toggle-bg-color: hsla(0%,0%,0%,0.8);
   --th-bg-color: #00040A;
   --tr-bg-color: #15191F;
