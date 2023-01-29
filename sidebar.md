@@ -49,5 +49,5 @@
 - 📞 其他
 
   - [联系我们](other/contact)
-  - [加入管理组](other/joinManagement)
+  - [加入我们](other/joinUs)
   - [加入创作组](other/joinCreation)
