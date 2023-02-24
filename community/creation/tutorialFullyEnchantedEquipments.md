@@ -1,3 +1,4 @@
+<!-- community/creation/tutorialFullyEnchantedEquipments -->
 # 满配装备
 
 ---

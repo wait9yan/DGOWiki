@@ -1,3 +1,4 @@
+<!-- community/creation/tutorialImportingResourcePacks -->
 # 教程.导入资源包
 
 > [!ATTENTION]

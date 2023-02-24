@@ -1,3 +1,4 @@
+<!-- community/creation/tutorialIndex -->
 # 教程前言
 
 由于这是一个面向基岩版的教程，</br>

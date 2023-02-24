@@ -26,7 +26,6 @@ Android 客户端可以通过 **谷歌商店** 购买及各种 **民间渠道** 
 
 民间渠道：
 
-[苦力怕论坛下载](https://klpbbs.com/xz)<br/>
 [MineBBS 下载](https://www.minebbs.com/minecraft)
 
 </details>

@@ -23,7 +23,7 @@
 
 - 📘 外服信息
 
-  - [DGOnline 介绍](information/DGOnline/4th)
+  - [DGOnline 介绍](information/DGOnline/5th)
   - [聚落模式](information/DGOnline/townMode)
   - [聚落列表](information/DGOnline/list)
 

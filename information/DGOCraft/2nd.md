@@ -16,14 +16,18 @@ DGOCraft 2nd 是 DGO 的主要服务器，开放于`2021年1月31日`。<br/>
 
 ## 🔌 插件列表
 
-|                                      插件目录                                      |
-| :--------------------------------------------------------------------------------: |
-|        [更合理地添加合成表](information/DGOCraft/2nd?id=更合理地添加合成表)        |
-|        [TrapDoor（活板门）](information/DGOCraft/2nd?id=TrapDoor（活板门）)        |
-| [FakePlayers（假人客户端）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）) |
-|                             AntiBeacon（修复信标 UI）                              |
-|                              BehaviorLog（行为日志）                               |
-|                                    Nillauncher                                     |
+|                                        插件目录                                        |
+| :------------------------------------------------------------------------------------: |
+|          [更合理地添加合成表](information/DGOCraft/2nd?id=更合理地添加合成表)          |
+|   [FakePlayers（假人客户端）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）)   |
+| [FakePlayerHelper（假人控制）](information/DGOCraft/2nd?id=fakeplayers（假人客户端）)  |
+|                    [TrapDoor](information/DGOCraft/2nd?id=TrapDoor)                    |
+|                               MCBE-hopper-fix(漏斗修复)                                |
+|                                BehaviorLog（行为日志）                                 |
+| [OnlineTimer（在线时间统计）](information/DGOCraft/2nd?id=onlinetimer（在线时间统计）) |
+|                                MiningList（挖掘量统计）                                |
+|                               AntiBeacon（修复信标 UI）                                |
+|                                          ...                                           |
 
 ---
 
@@ -71,13 +75,20 @@ DGOCraft 2nd 是 DGO 的主要服务器，开放于`2021年1月31日`。<br/>
 
 <!-- tabs:end -->
 
-#### TrapDoor（活板门）
-
-功能众多，可查看 [TrapDoor 中文 wiki](https://github.com/hhhxiao/TrapDoor/wiki/3.-%E5%8A%9F%E8%83%BD) 来了解如何使用该插件。
-
 #### FakePlayers（假人客户端）
 
-见[游玩手册](information/DGOCraft/play)
+利用网络协议模拟真实玩家登录服务器。<br/>
+_(常用指令见[游玩手册](information/DGOCraft/play?id=常用指令))_
+
+#### FakePlayerHelper（假人控制）
+
+用于控制假人客户端。<br/>
+_(常用指令见[游玩手册](information/DGOCraft/play?id=常用指令))_
+
+#### TrapDoor
+
+功能众多，可查看 [TrapDoor 中文 wiki](https://github.com/hhhxiao/TrapDoor/wiki/3.-%E5%8A%9F%E8%83%BD) 来了解如何使用该插件。<br/>
+_(常用指令见[游玩手册](information/DGOCraft/play?id=常用指令))_
 
 #### OnlineTimer（在线时间统计）
 
