@@ -47,6 +47,25 @@
 > [!ATTENTION]
 > An alert of type 'attention' using global style 'callout'.
 
+> [!TIP|style:flat]
+> An alert of type 'tip' using global style 'flat'.
+
+> [!NOTE|label:引言]
+> An alert of type 'note' using global style 'callout'.
+
+> [!TIP|style:flat|label:引言]
+> An alert of type 'tip' using alert specific style 'flat' which overrides global style 'callout'.
+> In addition, this alert uses an own heading and hides specific icon.
+
+|       Key       |                      Allowed value                      |
+| :-------------: | :-----------------------------------------------------: |
+|      style      |         One of follwowing values: callout, flat         |
+|      label      |                        Any text                         |
+|      icon       |    A valid Font Awesome icon, e.g. 'fas fa-comment'     |
+|    className    | A name of a CSS class which specifies the look and feel |
+| labelVisibility |   One of follwowing values: visible (default), hidden   |
+| iconVisibility  |   One of follwowing values: visible (default), hidden   |
+
 <https://maraudern.github.io/dgowiki/#/>
 
 [文本超链接](http://www.example.com/)
@@ -102,116 +121,116 @@ Assuming you have a working [docsify](https://docsify.js.org) app set up, it is 
 
 1. Add the following script tag to your `index.html`
 
-   ```html
-   <!-- Latest -->
-   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-   ```
+    ```html
+    <!-- Latest -->
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    ```
 
 2. In docsify setup configure the plugin so it does fit your needs. A custom setup is not mandatory. By default styles `flat` and `callout` (Default: `callout`) and types `NOTE`, `TIP`, `WARNING` and `ATTENTION` are supported.
 
-   You can change it using plugin configuration via `index.html` or for a single alert in your markdown files. (please see section `Customizations` for further details)
+    You can change it using plugin configuration via `index.html` or for a single alert in your markdown files. (please see section `Customizations` for further details)
 
-   **Sample `index.html` file using style `flat` instead of `callout`**
+    **Sample `index.html` file using style `flat` instead of `callout`**
 
-   ```javascript
-   <script>
-     window.$docsify = {
-       'flexible-alerts': {
-         style: 'flat'
-       }
-     };
-   </script>
-   ```
+    ```javascript
+    <script>
+      window.$docsify = {
+        'flexible-alerts': {
+          style: 'flat'
+        }
+      };
+    </script>
+    ```
 
-   **Sample `index.html` using custom headings**
+    **Sample `index.html` using custom headings**
 
-   ```javascript
-   <script>
-     window.$docsify = {
-       'flexible-alerts': {
-         note: {
-           label: "Hinweis"
-         },
-         tip: {
-           label: "Tipp"
-         },
-         warning: {
-           label: "Warnung"
-         },
-         attention: {
-           label: "Achtung"
-         }
-       }
-     };
-   </script>
-   ```
+    ```javascript
+    <script>
+      window.$docsify = {
+        'flexible-alerts': {
+          note: {
+            label: "Hinweis"
+          },
+          tip: {
+            label: "Tipp"
+          },
+          warning: {
+            label: "Warnung"
+          },
+          attention: {
+            label: "Achtung"
+          }
+        }
+      };
+    </script>
+    ```
 
-   **Sample `index.html` using multilingual headings**
+    **Sample `index.html` using multilingual headings**
 
-   ```javascript
-   <script>
-     window.$docsify = {
-       'flexible-alerts': {
-         note: {
-           label: {
-             '/de-DE/': 'Hinweis',
-             '/': 'Note'
-           }
-         },
-         tip: {
-           label: {
-             '/de-DE/': 'Tipp',
-             '/': 'Tip'
-           }
-         },
-         warning: {
-           label: {
-             '/de-DE/': 'Warnung',
-             '/': 'Warning'
-           }
-         },
-         attention: {
-           label: {
-             '/de-DE/': 'Achtung',
-             '/': 'Attention'
-           }
-         }
-       }
-     };
-   </script>
-   ```
+    ```javascript
+    <script>
+      window.$docsify = {
+        'flexible-alerts': {
+          note: {
+            label: {
+              '/de-DE/': 'Hinweis',
+              '/': 'Note'
+            }
+          },
+          tip: {
+            label: {
+              '/de-DE/': 'Tipp',
+              '/': 'Tip'
+            }
+          },
+          warning: {
+            label: {
+              '/de-DE/': 'Warnung',
+              '/': 'Warning'
+            }
+          },
+          attention: {
+            label: {
+              '/de-DE/': 'Achtung',
+              '/': 'Attention'
+            }
+          }
+        }
+      };
+    </script>
+    ```
 
 #### Step #2 - Prepare documentation
 
 Modify or add a new blockquote so it matches required syntax like shown in following examples:
 
-- Sample alert using type `NOTE`
+-   Sample alert using type `NOTE`
 
-  ```markdown
-  > [!NOTE]
-  > An alert of type 'note' using global style 'callout'.
-  ```
+    ```markdown
+    > [!NOTE]
+    > An alert of type 'note' using global style 'callout'.
+    ```
 
-- Sample alert using type `TIP`
+-   Sample alert using type `TIP`
 
-  ```markdown
-  > [!TIP]
-  > An alert of type 'tip' using global style 'callout'.
-  ```
+    ```markdown
+    > [!TIP]
+    > An alert of type 'tip' using global style 'callout'.
+    ```
 
-- Sample alert using type `WARNING`
+-   Sample alert using type `WARNING`
 
-  ```markdown
-  > [!WARNING]
-  > An alert of type 'warning' using global style 'callout'.
-  ```
+    ```markdown
+    > [!WARNING]
+    > An alert of type 'warning' using global style 'callout'.
+    ```
 
-- Sample alert using type `ATTENTION`
+-   Sample alert using type `ATTENTION`
 
-  ```markdown
-  > [!ATTENTION]
-  > An alert of type 'attention' using global style 'callout'.
-  ```
+    ```markdown
+    > [!ATTENTION]
+    > An alert of type 'attention' using global style 'callout'.
+    ```
 
 #### Step #3 - docsify commands
 
