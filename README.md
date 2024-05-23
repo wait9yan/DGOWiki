@@ -8,4 +8,4 @@
 
 由 DGO 创作组和玩家们共同编写和维护。
 
-你可以通过此链接来访问： **`https://wiki.dgo.world`**
+你可以通过此链接来访问： **`https://wait9yan.github.io/DGOWiki`**
